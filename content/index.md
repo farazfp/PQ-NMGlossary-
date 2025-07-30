@@ -1,8 +1,8 @@
- ### Introduction
+# Introduction
   
-  This page establishes a comprehensive mapping between the rich interdisciplinary vocabulary of the New Materialism Almanac and a research focus on the entanglement of technology, writing, and pedagogy in higher education. By engaging with these concepts in a postqualitative research orientation, the mapping seeks to illuminate how human and nonhuman agencies converge—whether in the affective experiences emerging from GenAI/LLM interactions, the cyborgification of modern writing practices, or in innovative pedagogical strategies. In each case, it is intended to provide a foundation for extrapolating further theoretical development and guiding empirical inquiry.
+  This page establishes a comprehensive mapping between the rich interdisciplinary vocabulary of New Materialism, Posthumanism and a research focus on the entanglement of technology, writing, and pedagogy in higher education. By engaging with these concepts in a postqualitative research orientation, the mapping seeks to illuminate how human and nonhuman agencies converge—whether in the affective experiences emerging from GenAI/LLM interactions, the cyborgification of modern writing practices, or in innovative pedagogical strategies. In each case, it is intended to provide a foundation for extrapolating further theoretical development and guiding empirical inquiry.
   
-  ---
+---
 - # A
 - ### [[Affective Method]]
   
@@ -22,9 +22,9 @@
 - ### Algorithms
     
   Algorithms, typically seen as opaque, rule-governed processes, are reimagined as active participants within assemblages. Instructors encountering GenAI must navigate algorithmic practices that shape writing outputs. Mapping this concept involves analyzing how algorithmic logic both constrains and enables creative expression, thus prompting a rethinking of authorship and originality in the digital age.
-- ### Almanac
+- ### Glossary
   
-  The Almanac itself is a meta-concept—a curated archive that aggregates multiple viewpoints and practices under the new materialist banner. It stands as an invitation to continuous dialogue and reconfiguration of meaning. For researchers, it serves as both a methodological guide and a source of inspiration for theorizing the intersections of technology, pedagogy, and materiality.
+  The Glossary itself is a meta-concept—a curated archive that aggregates multiple viewpoints and practices under the new materialist banner. It stands as an invitation to continuous dialogue and reconfiguration of meaning. For researchers, it serves as both a methodological guide and a source of inspiration for theorizing the intersections of technology, pedagogy, and materiality.
 - ### Anthropocene
   
   Anthropocene signifies the current geological era in which human activity significantly impacts planetary systems. In academic settings, it invites instructors to consider how climate, technology, and pedagogy interrelate. The concept urges a reorientation toward sustainability and ethical cohabitation with nonhuman entities, paralleling the disrupted but transformative practices introduced by GenAI and cyborg modes of writing.
