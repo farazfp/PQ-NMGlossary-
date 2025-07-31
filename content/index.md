@@ -141,7 +141,7 @@
  ### Intersectionality
   
   Intersectionality provides a framework for understanding how systems of power overlap and produce complex, interwoven dynamics. In cyborg writing and AI-mediated pedagogy, intersectionality helps reveal how identities and biases are reproduced (or contested) when digital tools interlace with traditional academic hierarchies. It supports a research agenda that investigates the multiplicity of identities emerging from human–machine interactions.
- ### Intra-action
+ ### Intra-actionz
   
   Intra-action dispenses with pre-established separations between entities, suggesting instead that realities co-constitute each other through their interactions. In a GenAI context, the concept captures how instructors and AI systems continuously and mutually shape each other’s functions, outcomes, and identities. This idea is central to postqualitative research by emphasizing that agency and meaning are always emergent, relational, and context-dependent.
   
