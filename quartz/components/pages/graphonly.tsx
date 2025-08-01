@@ -1,5 +1,7 @@
 import { QuartzComponentConstructor } from "../types";
 import { Graph } from "./Graph";
+import "../../quartz/components/styles/global.scss";
+import "../../quartz/components/styles/graph.scss";
 export const GraphOnly: QuartzComponentConstructor = () => (
   <main style={{
     width: "100vw",
