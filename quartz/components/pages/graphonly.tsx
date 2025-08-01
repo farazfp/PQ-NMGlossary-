@@ -1,0 +1,16 @@
+import { QuartzComponentConstructor } from "../types";
+import { Graph } from "./Graph";
+export const GraphOnly: QuartzComponentConstructor = () => (
+  <main style={{
+    width: "100vw",
+    height: "100vh",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center"
+  }}>
+    <div style={{ width: "90vw", height: "90vh" }}>
+      <Graph />
+    </div>
+  </main>
+);
+
