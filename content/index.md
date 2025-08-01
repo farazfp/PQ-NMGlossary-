@@ -66,9 +66,12 @@ Becoming is a central concept in new materialist and posthumanist thought, empha
   
   The concept of Body in new materialist discourse challenges Cartesian separations between mind and matter. <details>   <summary>💡More context</summary>In the context of cyborg writing, this highlights the embodied experience of interaction with AI systems—where sensory, corporeal responses inform digital engagements. Educators might employ this concept to explore how physical presence and digital embodiment coalesce in the learning environment.</details> 
   
-### Boundary
+### Boundary  
+
 Boundaries, in postqualitative research, are not seen as pre-given or rigid but as effects of ongoing material-discursive practices that delineate and differentiate entities, roles, and domains. <details>   <summary>💡More context</summary>The introduction of GenAI into writing pedagogy prompts new boundary-making practices, as distinctions between human and machine, author and tool, teacher and learner, are continually negotiated and sometimes blurred. Attending to how boundaries are enacted and maintained—or disrupted—offers insight into the power relations and ethical considerations at play in AI-entangled educational environments.</details>  
-  ---
+
+---
+  
 - # C  
 
 ### Creativity
