@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import GraphPage from "./quartz/layouts/graph"
 
 /**
  * Quartz 4 Configuration
@@ -77,8 +78,14 @@ const config: QuartzConfig = {
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
-      Plugin.ContentPage(),
-      Plugin.FolderPage(),
+    //  Plugin.ContentPage(),
+     Plugin.ContentPage({  
+  layouts: {  
+    graph: GraphPage,  
+  },  
+}), 
+//...
+Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
