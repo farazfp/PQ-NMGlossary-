@@ -1,4 +1,6 @@
----
-title: Site Graph
-slug: graph
----
+---  
+title: Interactive Graph  
+quartz.layout: graph  
+---  
+  
+This page displays the interactive graph.
