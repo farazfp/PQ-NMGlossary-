@@ -1,70 +1,71 @@
 // quartz/layouts/graph.tsx
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../components/types"
-import { FullSlug, SimpleSlug, joinSegments } from "../util/path"
+import { SimpleSlug, joinSegments } from "../util/path"
 import { a, useSpring } from "@react-spring/web"
 import { useDrag } from "@use-gesture/react"
 import { useEffect, useState, useMemo } from "preact/hooks"
-import Head from "../components/Head" // CORRECTED
-import Body from "../components/Body" // CORRECTED
-import { i18n } from "../i18n"
-import * as d3 from "d3" // ADDED
+import Head from "../components/Head"
+import * as d3 from "d3"
 
-// A lot of this code is straight from the original graph implementation
+// Define types for our graph data
+type Node = d3.SimulationNodeDatum & {
+  id: SimpleSlug
+  text: string
+}
+
+type Link = d3.SimulationLinkDatum<Node>
+
 const ForceGraph: QuartzComponent = ({ allFiles, fileData, cfg }: QuartzComponentProps) => {
-  const [nodes, setNodes] = useState<d3.SimulationNodeDatum[]>([])
-  const [links, setLinks] = useState<d3.SimulationLinkDatum<d3.SimulationNodeDatum>[]>([])
+  const [nodes, setNodes] = useState<Node[]>([])
+  const [links, setLinks] = useState<Link[]>([])
 
-  const NODE_RADIUS = 8
-  const ZOOM_SENSITIVITY = 0.001
   const [transform, setTransform] = useSpring(() => ({
     x: 0,
     y: 0,
     zoom: 1,
   }))
 
-  const nodeData = useMemo(() => {
-    const graph = new Map<SimpleSlug, d3.SimulationNodeDatum & { text: string }>()
+  // Recalculate graph data when files change
+  useEffect(() => {
+    const nodeMap = new Map<SimpleSlug, Node>()
     for (const file of allFiles) {
       const slug = file.slug
       if (slug.startsWith(".")) continue
-      graph.set(slug, {
+      nodeMap.set(slug, {
         id: slug,
         text: file.frontmatter?.title ?? slug,
-        tags: file.frontmatter?.tags ?? [],
       })
     }
 
-    const newLinks: d3.SimulationLinkDatum<d3.SimulationNodeDatum>[] = []
+    const newLinks: Link[] = []
     for (const file of allFiles) {
-      const slug = file.slug
-      if (!file.links || slug.startsWith(".")) continue
-      const source = graph.get(slug)
-      if (!source) continue
-      for (const link of file.links) {
-        const target = graph.get(link as SimpleSlug)
-        if (target) {
-          newLinks.push({ source: source.id, target: target.id })
+      const source = nodeMap.get(file.slug)
+      if (source && file.links) {
+        for (const link of file.links) {
+          const target = nodeMap.get(link as SimpleSlug)
+          if (target) {
+            newLinks.push({ source: source.id, target: target.id })
+          }
         }
       }
     }
 
-    setNodes([...graph.values()])
+    setNodes([...nodeMap.values()])
     setLinks(newLinks)
   }, [allFiles])
 
-  const simulation = useMemo(() => {
-    const sim = d3
+  // Run D3 simulation
+  useEffect(() => {
+    const simulation = d3
       .forceSimulation(nodes)
-      .force("link", d3.forceLink(links).id((d: any) => d.id))
-      .force("charge", d3.forceManyBody().strength(-150))
-      .force("center", d3.forceCenter(0, 0))
-      .force("collide", d3.forceCollide(NODE_RADIUS * 2))
+      .force("link", d3.forceLink(links).id((d) => d.id))
+      .force("charge", d3.forceManyBody().strength(-40))
+      .force("center", d3.forceCenter())
+      .on("tick", () => {
+        setNodes([...nodes])
+      })
 
-    sim.on("tick", () => {
-      setNodes([...sim.nodes()])
-    })
-
-    return sim
+    return () => simulation.stop()
   }, [nodes, links])
 
   const bind = useDrag(({ offset: [x, y], event }) => {
@@ -75,7 +76,7 @@ const ForceGraph: QuartzComponent = ({ allFiles, fileData, cfg }: QuartzComponen
   const zoom = (e: WheelEvent) => {
     e.preventDefault()
     const { x, y, zoom } = transform.get()
-    const newZoom = Math.max(0.1, zoom - e.deltaY * ZOOM_SENSITIVITY)
+    const newZoom = Math.max(0.1, zoom - e.deltaY * 0.001)
     setTransform({ x, y, zoom: newZoom })
   }
 
@@ -85,125 +86,94 @@ const ForceGraph: QuartzComponent = ({ allFiles, fileData, cfg }: QuartzComponen
         class="graph"
         style={{
           transform: transform.zoom.to((z) => `scale(${z})`),
-          transformOrigin: "center",
         }}
       >
-        <a.g
-          style={{
-            transform: transform.x.to((x) => `translateX(${x}px)`),
-          }}
-        >
-          <a.g
-            style={{
-              transform: transform.y.to((y) => `translateY(${y}px)`),
-            }}
-          >
-            {links.map((link) => {
-              const source = link.source as d3.SimulationNodeDatum & { id: string }
-              const target = link.target as d3.SimulationNodeDatum & { id: string }
-              return (
-                <line
-                  key={`${source.id}-${target.id}`}
-                  x1={source.x}
-                  y1={source.y}
-                  x2={target.x}
-                  y2={target.y}
-                  class="graph-edge"
-                />
-              )
-            })}
-            {nodes.map((node: any) => (
-              <g
-                key={node.id}
-                transform={`translate(${node.x}, ${node.y})`}
-                class={`graph-node ${node.id === fileData.slug ? "current" : ""}`}
-                onClick={() => (window.location.href = joinSegments(cfg.baseUrl, node.id))
-                }
-              >
-                <circle r={NODE_RADIUS} />
-                <text y={-NODE_RADIUS - 5} text-anchor="middle">
-                  {node.text}
-                </text>
-              </g>
-            ))}
-          </a.g>
+        <a.g style={{ x: transform.x, y: transform.y }}>
+          {links.map((link) => {
+            const source = link.source as Node
+            const target = link.target as Node
+            return (
+              <line
+                key={`${source.id}-${target.id}`}
+                x1={source.x}
+                y1={source.y}
+                x2={target.x}
+                y2={target.y}
+                class="graph-edge"
+              />
+            )
+          })}
+          {nodes.map((node) => (
+            <g
+              key={node.id}
+              transform={`translate(${node.x}, ${node.y})`}
+              class={`graph-node ${node.id === fileData.slug ? "current" : ""}`}
+              onClick={() => (window.location.href = joinSegments(cfg.baseUrl, node.id))}
+            >
+              <circle r={6} />
+              <text y={-12} text-anchor="middle">
+                {node.text}
+              </text>
+            </g>
+          ))}
         </a.g>
       </a.svg>
     </div>
   )
 }
 
-const Graph: QuartzComponent = (props) => {
+// This is the actual page layout component
+const GraphPage: QuartzComponent = (props) => {
   return (
-    <div id="graph-container">
-      <ForceGraph {...props} />
+    <div id="quartz-root" class="graph-page">
+      <Head {...props} />
+      <body data-slug={props.fileData.slug}>
+        <ForceGraph {...props} />
+      </body>
     </div>
   )
 }
 
-Graph.css = `
-#graph-container {
+// We attach the CSS directly to the component
+GraphPage.css = `
+.graph-page body {
+  margin: 0; /* Remove default body margin */
+}
+.graph-container {
   height: 100vh;
   width: 100%;
   position: relative;
   overflow: hidden;
-}
-
-.graph-container {
-  height: 100%;
-  width: 100%;
+  background-color: var(--light);
   cursor: move;
 }
-
 .graph {
   height: 100%;
   width: 100%;
 }
-
 .graph-node {
   cursor: pointer;
   fill: var(--gray);
   transition: fill 0.2s ease-in-out;
 }
-
 .graph-node:hover {
   fill: var(--secondary);
 }
-
 .graph-node.current {
   fill: var(--secondary);
+  filter: drop-shadow(0px 0px 3px var(--secondary));
 }
-
 .graph-node > text {
   fill: var(--dark);
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   pointer-events: none;
   user-select: none;
 }
-
 .graph-edge {
   stroke: var(--lightgray);
-  stroke-width: 1px;
-  opacity: 0.5;
+  stroke-width: 1.5px;
+  opacity: 0.8;
 }
-`
-
-const GraphPage: QuartzComponent = (props) => {
-  return (
-    <div id="quartz-root" class="graph-page">
-      <Head {...props} />
-      <Body {...props}>
-        <Graph {...props} />
-      </Body>
-    </div>
-  )
-}
-
-GraphPage.css = `
-.graph-page .page > .content {
-  padding: 0;
-}
-${Graph.css}
 `
 
 export default (() => {
