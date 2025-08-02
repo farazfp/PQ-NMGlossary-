@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { SimpleSlug, joinSegments } from "../util/path"
 import { a, useSpring } from "@react-spring/web"
 import { useDrag } from "@use-gesture/react"
-import { useEffect, useState } from "preact/hooks"
+import { useEffect, useState, useMemo } from "preact/hooks"
 import Head from "../components/Head"
 import * as d3 from "d3"
 
@@ -15,10 +15,8 @@ type Node = d3.SimulationNodeDatum & {
 type Link = d3.SimulationLinkDatum<Node>
 
 const ForceGraph: QuartzComponent = ({ allFiles, fileData, cfg }: QuartzComponentProps) => {
-  const [graphData, setGraphData] = useState<{ nodes: Node[]; links: Link[] }>({
-    nodes: [],
-    links: [],
-  })
+  const [nodes, setNodes] = useState<Node[]>([])
+  const [links, setLinks] = useState<Link[]>([])
 
   const [transform, setTransform] = useSpring(() => ({
     x: 0,
@@ -51,28 +49,32 @@ const ForceGraph: QuartzComponent = ({ allFiles, fileData, cfg }: QuartzComponen
       }
     }
 
-    setGraphData({ nodes: [...nodeMap.values()], links: newLinks })
+    setNodes([...nodeMap.values()])
+    setLinks(newLinks)
   }, [allFiles])
 
-  // Effect to run the D3 simulation
-  useEffect(() => {
-    const { nodes, links } = graphData
-    if (nodes.length === 0) return
-
-    const simulation = d3
-      .forceSimulation(nodes)
-      .force("link", d3.forceLink(links).id((d: any) => d.id))
-      .force("charge", d3.forceManyBody().strength(-40))
+  // useMemo to create the simulation. It will only be re-created when links change.
+  const simulation = useMemo(() => {
+    const sim = d3.forceSimulation<Node>()
+      .force("link", d3.forceLink<Node, Link>(links).id(d => d.id))
+      .force("charge", d3.forceManyBody().strength(-50))
       .force("center", d3.forceCenter())
-      .on("tick", () => {
-        // On each tick, update the component state to trigger a re-render
-        setGraphData((prev) => ({ ...prev, nodes: [...prev.nodes] }))
-      })
 
-    return () => simulation.stop()
-    // This dependency array is key: it re-runs the simulation only when the links change,
-    // preventing the infinite loop from before.
-  }, [graphData.links])
+    // The tick handler is the key. It updates the nodes state on every tick.
+    sim.on("tick", () => {
+      // Get the latest nodes from the simulation and trigger a re-render.
+      setNodes(prevNodes => [...sim.nodes()]);
+    });
+
+    return sim;
+  }, [links]);
+
+  // This effect runs when the nodes array is first populated or if the simulation instance changes.
+  useEffect(() => {
+    simulation.nodes(nodes);
+    simulation.alpha(0.3).restart();
+  }, [nodes, simulation]);
+
 
   const bind = useDrag(({ offset: [x, y], event }) => {
     event.preventDefault()
@@ -95,7 +97,7 @@ const ForceGraph: QuartzComponent = ({ allFiles, fileData, cfg }: QuartzComponen
         }}
       >
         <a.g style={{ x: transform.x, y: transform.y }}>
-          {graphData.links.map((link) => {
+          {links.map((link) => {
             const source = link.source as Node
             const target = link.target as Node
             return (
@@ -109,7 +111,7 @@ const ForceGraph: QuartzComponent = ({ allFiles, fileData, cfg }: QuartzComponen
               />
             )
           })}
-          {graphData.nodes.map((node) => (
+          {nodes.map((node) => (
             <g
               key={node.id}
               transform={`translate(${node.x ?? 0}, ${node.y ?? 0})`}
