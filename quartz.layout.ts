@@ -66,3 +66,37 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+// ADDED BY ME: components for page with only graphview display.
+export const defaultGraphPageLayout: GraphLayout = {
+  beforeBody: [
+    Component.ConditionalRender({
+      component: Component.Graph({ /* pass config if you need */ }),
+      // Show ONLY for the graph page (replace 'graph' with your slug if needed)
+      condition: (page) => page.fileData.slug === "graph",
+    }),
+    // For all other pages, render default components
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "graph",
+    }),
+    // ... add any others as needed
+  ],
+  left: [
+    Component.ConditionalRender({
+      component: Component.PageTitle(),
+      condition: (page) => page.fileData.slug !== "graph",
+    }),
+    // ...other left-side defaults, if you want
+  ],
+  right: [
+    // Leave right column empty for the graph page
+    // Optionally: render Graph or TableOfContents for non-graph pages as usual
+    Component.ConditionalRender({
+      component: Component.Graph(),
+      condition: (page) => page.fileData.slug !== "graph",
+    }),
+    // ...other right-side components for non-graph pages
+  ],
+}
+

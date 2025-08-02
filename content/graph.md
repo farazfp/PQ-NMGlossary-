@@ -1,4 +1,4 @@
 ---
 title: Site Graph
-layout: graphonly
+slug: graph
 ---

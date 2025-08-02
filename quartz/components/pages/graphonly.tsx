@@ -1,5 +1,4 @@
-import { QuartzComponentConstructor } from "../types";
-import { Graph } from "./Graph";
+import { QuartzPage } from "../quartz/components/types";import { Graph } from "./Graph";
 import "../../quartz/components/styles/global.scss";
 import "../../quartz/components/styles/graph.scss";
 
