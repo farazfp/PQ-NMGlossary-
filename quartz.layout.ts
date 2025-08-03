@@ -67,36 +67,48 @@ export const defaultListPageLayout: PageLayout = {
   right: [],
 }
 
-// ADDED BY ME: components for page with only graphview display.
-export const defaultGraphPageLayout: GraphLayout = {
+// Fullscreen graph layout - minimal UI, maximum graph space
+export const graphLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Graph({ /* pass config if you need */ }),
-      // Show ONLY for the graph page (replace 'graph' with your slug if needed)
-      condition: (page) => page.fileData.slug === "graph",
-    }),
-    // For all other pages, render default components
-    Component.ConditionalRender({
-      component: Component.ArticleTitle(),
-      condition: (page) => page.fileData.slug !== "graph",
-    }),
-    // ... add any others as needed
+    Component.ArticleTitle(),
   ],
   left: [
-    Component.ConditionalRender({
-      component: Component.PageTitle(),
-      condition: (page) => page.fileData.slug !== "graph",
-    }),
-    // ...other left-side defaults, if you want
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
   ],
-  right: [
-    // Leave right column empty for the graph page
-    // Optionally: render Graph or TableOfContents for non-graph pages as usual
-    Component.ConditionalRender({
-      component: Component.Graph(),
-      condition: (page) => page.fileData.slug !== "graph",
-    }),
-    // ...other right-side components for non-graph pages
-  ],
+  right: [],
+  pageBody: Component.Graph({
+    localGraph: {
+      drag: true,
+      zoom: true,
+      depth: -1, // Show all connections
+      scale: 1.2,
+      repelForce: 0.5,
+      centerForce: 0.3,
+      linkDistance: 30,
+      fontSize: 0.7,
+      opacityScale: 1,
+      removeTags: [],
+      showTags: true,
+      enableRadial: false,
+    },
+    globalGraph: {
+      drag: true,
+      zoom: true,
+      depth: -1,
+      scale: 1.0,
+      repelForce: 0.5,
+      centerForce: 0.3,
+      linkDistance: 30,
+      fontSize: 0.7,
+      opacityScale: 1,
+      removeTags: [],
+      showTags: true,
+      enableRadial: true,
+    },
+  }),
+  afterBody: []
 }
 

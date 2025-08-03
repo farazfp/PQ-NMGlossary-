@@ -78,7 +78,13 @@ const config: QuartzConfig = {
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
-      Plugin.ContentPage(),
+     // Plugin.ContentPage(),
+Plugin.ContentPage({
+        layouts: {
+          graph: "graphLayout", // Use our custom graph layout
+        }
+      }),     
+// ...
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({

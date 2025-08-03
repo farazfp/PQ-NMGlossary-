@@ -2,3 +2,102 @@
 
 // put your custom CSS here!
 
+// Custom styles for fullscreen graph view
+.graph-layout {
+  .page {
+    max-width: 100vw;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .center {
+    margin: 0;
+    max-width: 100vw;
+    
+    .page-header {
+      padding: 1rem;
+      border-bottom: 1px solid var(--lightgray);
+    }
+  }
+  
+  // Make graph container take full viewport
+  #graph-container {
+    height: calc(100vh - 120px); // Account for header/footer
+    width: 100vw;
+    position: relative;
+    
+    canvas {
+      width: 100% !important;
+      height: 100% !important;
+    }
+  }
+  
+  // Hide sidebar elements on graph page
+  .left, .right {
+    display: none;
+    
+    @media (max-width: 800px) {
+      display: flex; // Show on mobile for navigation
+    }
+  }
+  
+  // Minimal header on graph page
+  .left {
+    min-width: auto;
+    flex: 0;
+    
+    .page-title {
+      font-size: 1.2rem;
+    }
+  }
+}
+
+// Enhanced graph controls
+#graph-container {
+  .graph-controls {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10;
+    display: flex;
+    gap: 8px;
+    
+    button {
+      background: var(--light);
+      border: 1px solid var(--lightgray);
+      border-radius: 4px;
+      padding: 8px 12px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      
+      &:hover {
+        background: var(--lightgray);
+      }
+    }
+  }
+  
+  .graph-legend {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+    padding: 12px;
+    font-size: 0.8rem;
+    max-width: 200px;
+    
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 4px;
+      
+      .legend-color {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        margin-right: 8px;
+      }
+    }
+  }
+}
