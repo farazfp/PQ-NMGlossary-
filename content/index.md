@@ -1,13 +1,16 @@
 # Introduction
   
-  This page establishes a comprehensive mapping between the rich interdisciplinary vocabulary of New Materialism, Posthumanism and a research focus on the entanglement of technology, writing, and pedagogy in higher education. By engaging with these concepts in a postqualitative research orientation, the mapping seeks to illuminate how human and nonhuman agencies converge—whether in the affective experiences emerging from GenAI/LLM interactions, the cyborgification of modern writing practices, or in innovative pedagogical strategies. In each case, it is intended to provide a foundation for extrapolating further theoretical development and guiding empirical inquiry.
+  This page establishes a mapping between the rich interdisciplinary vocabulary of New Materialism, Posthumanism and a research focus on the entanglement of Generative AI, technology, writing, and pedagogy in higher education. By engaging with these concepts in a postqualitative research orientation, the mapping seeks to illuminate how human and nonhuman agencies converge—whether in the affective experiences emerging from GenAI/LLM interactions, the cyborgification of modern writing practices, or in innovative pedagogical strategies. In each case, it is intended to provide a foundation for extrapolating further theoretical development and guiding empirical inquiry.
   
 ---
 - # A
 
+### Affect
+
+Affect refers to the pre-personal, non-conscious intensities and forces that move through and between bodies, technologies, and environments, shaping what becomes possible in research and pedagogical encounters. In postqualitative and new materialist inquiry, affect is not reducible to emotion or individual feeling; rather, it is understood as a relational, trans-subjective force that circulates within assemblages, modulating capacities for action and engagement. <details>   <summary>💡More context</summary> In the context of GenAI in higher education, affect is central to understanding how anxieties, excitements, and uncertainties are collectively produced and circulated as instructors and students encounter new technological possibilities and constraints. </details>
 ### [[Affective Method]]
   
-  The Affective Method centers on understanding how emotions and embodied responses are integral to material-discursive practices. <details>   <summary>💡More context</summary>   In the context of GenAI/LLM-enhanced writing, instructors encounter affective engagements—ranging from excitement at innovative possibilities to anxiety about algorithmic judgments. This concept suggests that curricular designs and feedback protocols can incorporate emotional literacy, thereby foregrounding the visceral, affect-laden aspects of technological entanglements. </details>
+  The Affective Method centers on understanding how emotions and embodied responses are integral to material-discursive practices. It designates a research orientation that foregrounds attunement to the intensities, atmospheres, and resonances that shape research events and pedagogical practice. Rather than seeking to represent or categorize emotions, affective method involves tracing how affect moves, sticks, and transforms within assemblages of bodies, technologies, and discourses. <details>   <summary>💡More context</summary>   In the context of GenAI/LLM-enhanced writing, instructors encounter affective engagements—ranging from excitement at innovative possibilities to anxiety about algorithmic judgments. This concept suggests that curricular designs and feedback protocols can incorporate emotional literacy, thereby foregrounding the visceral, affect-laden aspects of technological entanglements. </details>
 
 ### Affirmative Difference
   
@@ -28,9 +31,6 @@
 ### Algorithms
     
   Algorithms, typically seen as opaque, rule-governed processes, are reimagined as active participants within assemblages. <details>   <summary>💡More context</summary>Instructors encountering GenAI must navigate algorithmic practices that shape writing outputs. Mapping this concept involves analyzing how algorithmic logic both constrains and enables creative expression, thus prompting a rethinking of authorship and originality in the digital age.</details>
-### Glossary
-  
-  The Glossary itself is a meta-concept—a curated archive that aggregates multiple viewpoints and practices under the new materialist banner. It stands as an invitation to continuous dialogue and reconfiguration of meaning. For researchers, it serves as both a methodological guide and a source of inspiration for theorizing the intersections of technology, pedagogy, and materiality.
 
 ### Anthropocene
   
@@ -40,10 +40,10 @@
   An apparatus in new materialist thought denotes the material and institutional systems that condition practices and perceptions. <details>   <summary>💡More context</summary>For cyborg writing practices, this concept can be used to interrogate the infrastructural and normative frameworks that shape digital pedagogies and GenAI tools. It provides a lens to critique and redesign the educational apparatus to be more inclusive of multiplicity and distributed agency. </details>  
 ### Apparatus x Assemblage
   
-  This concept explores the interplay between organized systems (apparatus) and emergent networks (assemblages). <details>   <summary>💡More context</summary>It is especially pertinent in contexts where human instructors, AI systems, and digital platforms converge. The mapping highlights opportunities for reconfiguring hierarchies within classrooms, suggesting a dynamic interface where established structures temporarily merge with unexpected, emergent interactions. </details>  
+  This concept explores the interplay between organized systems (apparatus) and emergent networks (assemblages). and this is  [[#Becoming|becoming]] and this is the ln version of [becoming](#Becoming)<details>   <summary>💡More context</summary>It is especially pertinent in contexts where human instructors, AI systems, and digital platforms converge. The mapping highlights opportunities for reconfiguring hierarchies within classrooms, suggesting a dynamic interface where established structures temporarily merge with unexpected, emergent interactions. </details>  
 ### Assemblages: Assembling the Unassembled
   
-  Assemblages refer to the temporary, fluctuating unions among heterogeneous entities. <details>   <summary>💡More context</summary> In the realm of cyborg writing, they denote the fusion of instructor expertise, student creativity, and AI-generated content. This concept invites research into the spontaneous, evolving nature of collaborative writing and learning practices, where meaning is continuously negotiated and reassembled. </details>  
+  Assemblages refer to the temporary, fluctuating unions among heterogeneous entities. An assemblage is a dynamic constellation of heterogeneous elements—human, nonhuman, material, discursive, technological—that come together temporarily to produce particular effects or phenomena. In postqualitative inquiry, assemblages are not static structures but are always in the process of becoming, shaped by the ongoing interactions and intra-actions of their components. <details>   <summary>💡More context</summary> In the realm of cyborg writing, they denote the fusion of instructor expertise, student creativity, and AI-generated content. This concept invites research into the spontaneous, evolving nature of collaborative writing and learning practices, where meaning is continuously negotiated and reassembled. </details>  
 ### Authorship
 Authorship, traditionally associated with individual creativity and ownership, is reimagined in postqualitative and new materialist frameworks as a distributed, collective, and emergent process.<details>   <summary>💡More context</summary> The presence of GenAI in writing instruction complicates notions of originality, intention, and authority, as texts are increasingly co-produced by humans and machines. This reconceptualization invites a critical examination of how authorship is negotiated, attributed, and valued within academic and pedagogical contexts, and how these negotiations are entangled with broader sociotechnical assemblages. </details>  
   
@@ -149,8 +149,9 @@ Entanglement is a key concept in new materialist and posthumanist scholarship, d
 ### Ethos / Ethics
   
   Ethos and Ethics refer to the character and moral imperatives guiding practice. Ethics, in postqualitative and new materialist research, is not a matter of applying universal rules or codes but is understood as an ongoing, situated practice that emerges from the specificities of relational entanglements. <details>   <summary>💡More context</summary>In the context of cyborg writing and GenAI in higher education, they compel instructors to consider how accountability, trust, and responsibility alongside the practical realities of agency, authorship, and care within classrooms are reshaped by the ways in which human and nonhuman actors intra-act. This approach to ethics foregrounds attentiveness to the effects of research and pedagogical practices, emphasizing the need to remain responsive to the shifting dynamics and potential harms or benefits that unfold within AI-entangled assemblages. This concept invites a critical assessment of the ethical implications of postqualitative methods in education and the development of frameworks that support responsible human–machine collaborations. </details> 
+
+---
   
-  ---
 - # F
 
 ### Fearful Materialism
@@ -168,6 +169,11 @@ Entanglement is a key concept in new materialist and posthumanist scholarship, d
   
   Frailty speaks to the vulnerabilities inherent in any assemblage, whether human or technological. <details>   <summary>💡More context</summary>In exploring cyborg writing practices, this concept reminds researchers that digital tools, like human actors, possess limitations that may expose systemic weaknesses. It invites educators to develop resiliency strategies and critical frameworks that account for the fragility built into processes of technological integration. </details> 
   
+  ---
+- # G
+### Glossary
+  
+  The Glossary itself is a meta-concept—a curated archive that aggregates multiple viewpoints and practices under the new materialist banner. It stands as an invitation to continuous dialogue and reconfiguration of meaning. For researchers, it serves as both a methodological guide and a source of inspiration for theorizing the intersections of technology, pedagogy, and materiality.
   ---
 - # I
 
