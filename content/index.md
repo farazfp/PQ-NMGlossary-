@@ -38,9 +38,6 @@ Affect refers to the pre-personal, non-conscious intensities and forces that mov
 ### Apparatus
   
   An apparatus in new materialist thought denotes the material and institutional systems that condition practices and perceptions. <details>   <summary>💡More context</summary>For cyborg writing practices, this concept can be used to interrogate the infrastructural and normative frameworks that shape digital pedagogies and GenAI tools. It provides a lens to critique and redesign the educational apparatus to be more inclusive of multiplicity and distributed agency. </details>  
-### Apparatus x Assemblage
-  
-  This concept explores the interplay between organized systems (apparatus) and emergent networks (assemblages). and this is  [[#Becoming|becoming]] and this is the ln version of [becoming](#Becoming)<details>   <summary>💡More context</summary>It is especially pertinent in contexts where human instructors, AI systems, and digital platforms converge. The mapping highlights opportunities for reconfiguring hierarchies within classrooms, suggesting a dynamic interface where established structures temporarily merge with unexpected, emergent interactions. </details>  
 ### Assemblages: Assembling the Unassembled
   
   Assemblages refer to the temporary, fluctuating unions among heterogeneous entities. An assemblage is a dynamic constellation of heterogeneous elements—human, nonhuman, material, discursive, technological—that come together temporarily to produce particular effects or phenomena. In postqualitative inquiry, assemblages are not static structures but are always in the process of becoming, shaped by the ongoing interactions and intra-actions of their components. <details>   <summary>💡More context</summary> In the realm of cyborg writing, they denote the fusion of instructor expertise, student creativity, and AI-generated content. This concept invites research into the spontaneous, evolving nature of collaborative writing and learning practices, where meaning is continuously negotiated and reassembled. </details>  
@@ -174,6 +171,7 @@ Entanglement is a key concept in new materialist and posthumanist scholarship, d
 ### Glossary
   
   The Glossary itself is a meta-concept—a curated archive that aggregates multiple viewpoints and practices under the new materialist banner. It stands as an invitation to continuous dialogue and reconfiguration of meaning. For researchers, it serves as both a methodological guide and a source of inspiration for theorizing the intersections of technology, pedagogy, and materiality.
+  
   ---
 - # I
 
@@ -333,7 +331,9 @@ Subjectivity, in postqualitative and new materialist frameworks, is not a fixed,
   Voice is reconfigured to acknowledge that sound, speech, and textual expression are emergent from complex interactions rather than being solely human attributes. <details>   <summary>💡More context</summary> In a technologically mediated writing classroom, voice can be seen as the composite sound made up by human expression and algorithmic modulation. This mapping suggests that embracing multifaceted voices can lead to more inclusive pedagogical practices in which authority and creativity are continuously renegotiated. </details> 
 
 ### Vulnerability
+
 Vulnerability, in postqualitative and new materialist research, is understood as a relational and generative condition rather than a deficit or weakness. It emerges from the openness and exposure of bodies, subjectivities, and assemblages to the unpredictable effects of intra-action, change, and transformation. <details>   <summary>💡More context</summary>In the context of GenAI in higher education, vulnerability may manifest in the anxieties, uncertainties, and risks experienced by instructors and students as they navigate new technological landscapes. Attending to vulnerability invites a more ethical, responsive, and caring approach to pedagogy and research, foregrounding the importance of support, solidarity, and collective resilience.</details>
+
   ---
 - # W 
 
@@ -342,6 +342,7 @@ Vulnerability, in postqualitative and new materialist research, is understood as
   Worlding refers to the ongoing practice of effecting change—of continuously reconstituting what we understand as “the world.” <details>   <summary>💡More context</summary> In the interplay of GenAI, cyborg writing, and pedagogy, worlding is both a philosophical stance and a practical ambition: it requires educators and students to actively construct, deconstruct, and reconstruct educational realities. This concept thus underpins research that interrogates how digital and material forces collaborate to remake the academic and cultural landscapes. </details>
 
 ### Writing
+
 Writing, from a postqualitative and new materialist perspective, is redefined as an agential, material-discursive practice that actively generates thought, rather than simply transcribing pre-existing ideas. In this view, writing is a form of thinking-in-action, where the physical act of inscription—whether through keystrokes on a keyboard, interactions with a screen, or the processing work of servers—is inseparable from the discursive forces at play, such as genre conventions, institutional rules, and algorithmic patterns. The author does not stand apart from this process but is constituted through it; the act of writing produces the writer’s subjectivity and knowledge in real-time.
 <details>   <summary>💡More context</summary> In the context of GenAI, this practice is radically reconfigured. Writing becomes a complex intra-action between the human writer and the nonhuman agency of the large language model. The process is no longer solely about composition but expands to include prompting, curating, editing, and integrating machine-generated text. This transforms writing into a cyborgian activity where the final text is an artifact of a distributed cognitive and creative process. Consequently, authorship is understood not as an individual act of creation but as an emergent effect of the entire writing assemblage, challenging fixed notions of originality, intention, and the boundaries of the text itself.</details>
   
