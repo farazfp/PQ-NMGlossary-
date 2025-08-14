@@ -88,6 +88,7 @@ Agential realism provides a concrete grammar for postqualitative inquiry by diss
 Agential realism clarifies how AI-entangled composing emerges from the intra-action of prompts, models, platforms, rubrics, institutional policies, and embodied writerly habits. What counts as authorship, creativity, collaboration, and assessment is enacted by pedagogical apparatuses that perform agential cuts--detector policies, “AI-free” assignments, or process-facing portfolios each configure different determinations of writer, tool, originality, and accountability. Lived and affective experiences of instructors take shape within these entanglements: anxiety, curiosity, confidence, and care are not merely internal states but effects of specific material-discursive configurations. Designing studios that foreground interaction logs, revision trails, and reflective commentary reconfigures the phenomenon so that distributed agency and entangled creativity become legible, assessable, and ethically accountable.
 </details>
 
+
 ### Agents Against Agency (AAA)
 
 > A provocation that names how concrete agents and material relations exceed, escape, or even undo abstract, pre-assigned “agency,” shifting attention from agency as a property to situated agential doings in entangled worlds.
@@ -101,6 +102,8 @@ Postqualitative inquiry treats “agency” not as a variable to be measured or 
 
 Within AI-entangled writing instruction, this concept directs analysis to how authorship, learning, and creativity are enacted by agents that resist being neatly subsumed under “instructor” or “student” agency. Prompt templates, autosuggestions, token limits, plagiarism detectors, and LMS policies co-compose what becomes writable or thinkable; sometimes these agents work against institutionalized notions of “student agency” or “teacher autonomy,” redirecting attention, pacing, or evaluative criteria. Attending to “agents against agency” illuminates the lived experience of instructors when the feel of a platform, the rhythm of an interface, or the tenor of a campus policy unsettles pedagogical intentions; it clarifies how distributed agency in the pedagogical assemblage can reconfigure assessment, feedback timing, and the emergence of classroom artifacts, not by removing human agency but by showing how agential patterns diverge from where agency is presumed to reside.
 </details>
+
+
 ### Algorithms
 
 > Procedural compositions of rules, data, and infrastructure that performatively shape what becomes sayable, writable, and sensible within socio-technical assemblages.
@@ -116,6 +119,7 @@ Treating algorithms as part of the apparatus reorients inquiry from interpreting
 In AI-entangled writing instruction, algorithms participate in the emergence of authorship by patterning stylistic variation, genre coherence, citation habits, and error profiles. Attention to prompt design, temperature and constraint settings, moderation layers, and fine-tuning histories clarifies how creativity and originality are enacted within specific classrooms and platforms. Instructors’ lived and affective experiences--trust, friction, surprise, apprehension--are shaped by algorithmic legibility and opacity, from explainability dashboards to sudden model updates that reconfigure expected outputs. Pedagogical artifacts such as assignment prompts, rubrics, and feedback scripts become apparatus elements that, with the interface and model affordances, enact particular definitions of learning and accountability. Tracing revisions across student drafts, system logs, and instructor feedback makes visible the distributed agency of composing processes where the algorithm is a co-composer whose contributions are conditioned by infrastructure, policy, and situational use.
   </details>
 
+
 ### Apparatus
 
 > A material-discursive configuration that enacts phenomena by setting the conditions under which differences matter, boundaries are drawn, and properties become intelligible.
@@ -129,6 +133,7 @@ Apparatus foregrounds method as ethico-onto-epistemology. Postqualitative inquir
 
 In AI-entangled writing instruction, the pedagogical apparatus includes assignment designs, rubrics, platform affordances, integrity policies, access constraints, model parameters, classroom norms, feedback workflows, and instructor dispositions. Together, these elements enact what counts as authorship, creativity, learning, and evidence. Adjusting any element—inviting LLM brainstorming, requiring prompt-chains in process logs, citing model contributions, or restructuring formative feedback—reconfigures the cut between “student text,” “AI output,” and “instructional guidance.” Apparatus analysis clarifies how affective climates of risk, curiosity, or suspicion take hold; how originality is made legible; and how artifacts like version histories, chat transcripts, and annotation layers anchor specific accountabilities. Treating pedagogy as apparatus supports intentional redesigns that redistribute agency, open new learning pathways, and make evaluative criteria materially explicit.</details>
 
+
 ### Assemblage
   > A dynamic constellation of heterogeneous elements -- human, nonhuman, material, discursive, technological -- coming together temporarily to produce particular effects, always in motion and continually reconfiguring as relations shift.
 
@@ -140,6 +145,7 @@ New materialist and posthumanist scholarship extends assemblage thinking into so
 Assemblage reframes method from representing stable entities to composing with emergent relations. It orients research toward tracing how phenomena are enacted through material-discursive practices, how agency is distributed and relational, and how affects and technologies modulate capacities. Analytically, it shifts questions from “what is it?” to “what can it do here, with these connections?” Methodologically, it privileges mapping, attunement, and intervention in apparatus design, following how territorializations (stabilizations) and deterritorializations (shifts, leaks, ruptures) pattern inquiry and its ethical accountabilities.
 
 Assemblage clarifies the classroom as a fluctuating ecology in which instructors, students, LLMs, prompts, rubrics, interfaces, policies, datasets, and institutional narratives compose capacities for writing and learning. It supports analyses of lived and affective experience by tracing how anxieties, excitations, and frictions circulate across interfaces, deadlines, assessment regimes, and media discourse, shaping what can be felt and tried. It reorients authorship and creativity as emergent effects of relations among drafting practices, model outputs, feedback exchanges, citation infrastructures, and material conditions (e.g., access, latency, interface design). It also illuminates how tangible artifacts—assignment prompts, prompt-engineering guides, version histories, annotation tools—stabilize certain practices while leaving room for deterritorialization, revealing where pedagogical redesign can modulate capacities in AI-entangled composing.</details>
+
 
 ### Authorship
    Authorship, traditionally associated with individual creativity and ownership, is reimagined in postqualitative and new materialist frameworks as a distributed, collective, and emergent process.<details>   <summary>💡More context</summary> The presence of GenAI in writing instruction complicates notions of originality, intention, and authority, as texts are increasingly co-produced by humans and machines. This reconceptualization invites a critical examination of how authorship is negotiated, attributed, and valued within academic and pedagogical contexts, and how these negotiations are entangled with broader sociotechnical assemblages. </details>  
