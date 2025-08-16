@@ -106,3 +106,12 @@ Fenwick, T., Edwards, R., & Sawchuk, P. (2011). Emerging Approaches to Education
 Taylor, C. A. (2013). Objects, bodies and space: Gender and embodied practices of mattering in the classroom. Gender and Education, 25(6), 688–703.  
 
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary; PQ_-_Intro.pdf; Review_of_Literature_draft1.pdf.
+
+## Authorship
+
+Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Barthes, R. (1967/1977). The Death of the Author. University of Pennsylvania posting of the translation: [https://writing.upenn.edu/~taransky/Barthes.pdf](https://writing.upenn.edu/~taransky/Barthes.pdf)  
+Foucault, M. (1969/1977). What is an Author? Accessible scan via Open University: [https://www.open.edu/openlearn/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf](https://www.open.edu/openlearn/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf)  
+Haraway, D. (1985/1991). A Manifesto for Cyborgs. Open PDF access (teaching copy): [https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf](https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf)  
+From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (bibliography sections on Barad, Haraway, Deleuze & Guattari, Bennett, Massumi, Braidotti); Posthuman Glossary (entries on Diffraction, Posthumanist Performativity, Non-human Agency, Material Feminisms).
+
