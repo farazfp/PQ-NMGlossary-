@@ -165,3 +165,27 @@ From attached resources:
 A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (see entries on material-discursive and agential cut, which explicitly discuss boundary-making and agential separability).  
 Structure for PQ for an AI-entangled pedagogy (uploaded draft) for concrete applications of agential cuts to pedagogical boundary-making in writing classrooms.  
 Posthuman Glossary; More Posthuman Glossary (for cross-references on apparatus, assemblage, and worlding as boundary practices).</details>
+
+## Creativity
+
+<details>   <summary>💡More</summary>   Ahmed, S. (2014). The Cultural Politics of Emotion (2nd ed.). Edinburgh University Press.  
+Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Bennett, J. (2010). Vibrant Matter: A Political Ecology of Things. Duke University Press.  
+Deleuze, G., & Guattari, F. (1987). A Thousand Plateaus. University of Minnesota Press.  
+Haraway, D. (2016). Staying with the Trouble: Making Kin in the Chthulucene. Duke University Press.  
+Massumi, B. (2015). Politics of Affect. Polity.  
+Manning, E. (2016). The Minor Gesture. Duke University Press.  
+Manning, E., & Massumi, B. (2014). Thought in the Act: Passages in the Ecology of Experience. University of Minnesota Press.  
+Simondon, G. (2020). Individuation in Light of Notions of Form and Information (T. Adkins, Trans.). University of Minnesota Press.  
+Stengers, I. (2018). Another Science is Possible: A Manifesto for Slow Science. Polity.
+
+From attached resources:  
+A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (uploaded).  
+Posthuman Glossary (uploaded).  
+More Posthuman Glossary (uploaded).
+
+Selected recent overviews and accessible touchpoints:  
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Overview gateway via Open Readings listing: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)  
+Duke University Press book page for Meeting the Universe Halfway (for citation details and TOC): [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)</details>
+
+## 
