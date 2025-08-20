@@ -5,37 +5,33 @@
 ---
 - # A
 ### [[Affect]]
-
 > Bodily Intensities, felt forces and capacities prior to narrative, label, or cognition that modulate the (human and nonhuman) body's abilities to act and be acted upon;  transpersonal forces that move across bodies, things, and environments, composing atmospheres and dispositions that render some actions and meanings possible and others less so.
 ### [[Affective Method]]
-  
-> An orientation to inquiry that foregrounds attunement to affective intensities, atmospheres, and embodied resonances as constitutive of phenomena, treating affect as methodological, ethical, and analytical force in research and pedagogy.
+  > An orientation to inquiry that foregrounds attunement to affective intensities, atmospheres, and embodied resonances as constitutive of phenomena, treating affect as methodological, ethical, and analytical force in research and pedagogy.
 ### [[Affirmative Difference]]
-
 > A commitment to difference as a generative, capacity-enhancing force of becoming, oriented toward composing futures and relations that increase the power to act rather than grounding critique in negativity or lack.
 ### [[Agency]]
-
 > The capacity of phenomena, human and more-than-human, to produce effects and make a difference through their relational entanglement.
 ### [[Agential cut]]
-
 > The enactment of a temporary, contingent separation within a phenomenon that makes some things matter and become intelligible while excluding others;
 > A situated boundary-making that enacts a temporary determinacy within an entangled phenomenon, “cutting together-apart” to produce what counts as object, instrument, cause, and effect in a given apparatus
 ### [[Agential realism]]
 
-> A posthumanist onto-epistemology that understands reality as composed of phenomena--entangled relations without preexisting relata--where concepts, bodies, and instruments co-constitute what becomes determinate through intra-action and agential cuts.
+> A posthumanist onto-epistemology that understands reality as composed of phenomena, or entangled relations without preexisting relata, where concepts, bodies, and instruments co-constitute what becomes determinate through intra-action and agential cuts.
 ### [[Agents Against Agency (AAA)]]
-
 > A provocation that names how concrete agents and material relations exceed, escape, or even undo abstract, pre-assigned “agency,” shifting attention from agency as a property to situated agential doings in entangled worlds.
 ### [[Algorithms]]
-
 > Procedural compositions of rules, data, and infrastructure that performatively shape what becomes sayable, writable, and sensible within socio-technical assemblages.
 ### [[Apparatus]]
-
 > A material-discursive configuration that enacts phenomena by setting the conditions under which differences matter, boundaries are drawn, and properties become intelligible.
 ### [[Assemblage]]
   > A dynamic constellation of heterogeneous elements -- human, nonhuman, material, discursive, technological -- coming together temporarily to produce particular effects, always in motion and continually reconfiguring as relations shift.
-### [[Authorship]]
+## [[Atmosphere]]
+> The felt, shared quality of a situation—the diffuse, more-than-individual “weather” of a scene—that emerges from entanglements of bodies, spaces, technologies, discourse, and materials, shaping what becomes thinkable, sayable, and doable.
 
+### [[Attunement]]
+> A practice of sensitizing perception to the rhythms, intensities, and relations that compose a situation, so that inquiry can feel-with and think-with the more-than-human forces shaping what becomes possible.
+### [[Authorship]]
 > An emergent pattern of accountability and credit enacted within specific assemblages of humans, tools, discourses, and materials, where agency, meaning, and intention are materially distributed and momentarily cut together-apart as a text.
 ### Autopoietic System
 <sub>An autopoietic system is one that self-generates and self-maintains. In pedagogical contexts influenced by AI, it describes ecosystems where educational practices, such as writing and learning, are constantly reproduced and transformed through interactions between instructors, students, and technological agents. This notion fosters inquiry into the resilience and adaptability of cyborg assemblages in sustaining vibrant academic practices.</sub>
@@ -43,77 +39,83 @@
 --- 
 - # B
 ### [[Becoming]]
-
 > Ongoing, relational transformation that composes new capacities and relations in a field of forces, where entities do not pre-exist their relations but take shape through them.
 ### [[Becoming-with]]
-
 > Co-composition of relations, capacities, and worlds through ongoing, situated companionship among humans, nonhumans, and technologies, where beings and practices take shape together rather than in isolation.
 ### [[Body]]
-  
 > A lively, permeable, and relational event of capacities and connections--human and more-than-human--through which thinking-feeling, sensing, and knowing take shape in situated practices and apparatuses.
 ### [[Boundary]]  
-
 > A boundary is a temporarily stabilized differentiation produced within entangled relations; it is enacted by specific material–discursive practices that mark what counts as inside/outside, subject/object, or human/machine in a given situation.
 
 ---
 - # C  
-### [[Creativity]]
 
-> The event of bringing forth novel and fitting differences within a situated assemblage, where “novel” marks an emergent variation that did not previously exist in that configuration and “fitting” names its consequential uptake—how it reconfigures capacities, relations, and possibilities for action.
-### Creative Materiality
-  
-  Creative Materiality foregrounds the interplay between matter and creativity, arguing that material conditions are inextricable from imaginative practices. When instructors work with generative AI, this concept reveals how digital texts, algorithms, and physical writing materials converge to form new literary assemblages. It emphasizes the creative potential embedded in material constraints and the opportunities for innovative pedagogical interventions.   
-### Cultural Entanglement
-  
-  Cultural Entanglement draws attention to the intertwined nature of cultural practices, technological mediation, and material conditions. In cyborg writing studies, it frames the digital classroom and GenAI interactions as spaces of cultural negotiation, where norms are continuously redefined through cross-cultural and interdisciplinary exchanges. This perspective supports a more relational and ethically attuned pedagogy.   
-### Culture
-  
-  Culture, in this framework, is understood not as a static set of norms but as a dynamic assemblage of practices and discourses. In GenAI-enabled pedagogy, it invites researchers to scrutinize how educational practices are reconstituted in technologically mediated environments. It challenges instructors to think beyond conventional cultural binaries, fostering a pedagogy that embraces multiplicity and hybridity.   
-### Cyborg
+### [[Care]]
+
+> Situated, affective, material practices of maintenance and response‑ability that sustain relations and capacities within pedagogical and research apparatuses.
+### [[Creativity]]
+> The event of bringing forth novel and fitting differences within a situated assemblage, where “novel” marks an emergent variation that did not previously exist in that configuration and “fitting” names its consequential uptake, or how it reconfigures capacities, relations, and possibilities for action.
+### [[Creative Materiality]]
+> How matter—tools, interfaces, bodies, data, and environments—participates in invention rather than merely supporting it. Creative effects arise from frictions and affordances within an apparatus, where transductions between media and bodies co-compose what becomes thinkable and writable.
+### [[Culture]]
+>Sedimented practices, narratives, and infrastructures that pattern perception, value, and possibility across assemblages. 
+### [[Cyborg]]
+> A hybrid subject of entangled human–machine capacities that foregrounds distributed agency, boundary blurring, and the material–semiotic making of writerly life.
 
 Cyborg refers to the hybrid entity that emerges from the intimate entanglement of human and machine, blurring the boundaries between organic and technological, natural and artificial. In postqualitative and new materialist research, the cyborg is not merely a science fiction figure but a conceptual tool for thinking about the distributed, relational, and more-than-human constitution of subjectivity and agency. Within the context of GenAI in higher education writing instruction, the cyborg metaphor illuminates how instructors and students become technologically augmented beings, co-producing knowledge and text in collaboration with algorithmic systems. This perspective challenges the purity of human authorship and the autonomy of the educational subject, foregrounding instead the ongoing processes of cyborgification that shape pedagogical practice, creativity, and identity. The cyborg thus becomes a figure for exploring the ethical, affective, and epistemological complexities of teaching and learning in an era of pervasive digital mediation.
 
-### Cyborgification
+### ### [[Cyborgification]]
+> The ongoing process by which bodies, texts, and practices become technologically composed, reconfiguring authorship, learning, and ethics through human–machine intra-actions.
 
 Cyborgification refers to the ongoing, dynamic process through which human bodies, minds, and practices become entangled with technological systems, resulting in hybrid forms of subjectivity, agency, and knowledge production. Rather than a static state or identity, cyborgification foregrounds the continual becoming-with of humans and machines, where boundaries between organic and artificial, natural and technological, are persistently negotiated and reconfigured. In the context of GenAI in higher education writing instruction, cyborgification describes how instructors and students are incrementally transformed through their interactions with algorithmic tools, digital platforms, and institutional infrastructures. This process is not merely additive or augmentative; it is constitutive, shaping how pedagogical practices, creative acts, and even ethical orientations are enacted. Cyborgification thus highlights the procedural, relational, and more-than-human dimensions of educational life, inviting critical attention to the ways in which technological mediation reconfigures what it means to teach, learn, and write in contemporary academic assemblages.   
   
   ---
 - # D 
 
-### Difference
+### [[Difference]]
+> The generative force of variation that composes new capacities and relations, making becoming possible without presuming prior identities.
+
 Difference is a foundational concept in postqualitative and new materialist thought, emphasizing the productive, generative force of variation, divergence, and multiplicity. Rather than viewing difference as a deficit or deviation from a norm, this perspective recognizes difference as essential to the ongoing processes of becoming and transformation. In AI-entangled pedagogy, difference manifests in the diverse ways instructors and students engage with GenAI, as well as in the multiple, sometimes unpredictable, outcomes that arise from these engagements. Attending to difference enables a more nuanced understanding of how power, identity, and knowledge are negotiated in educational contexts.
 
-### Diffraction
+### [[Diffraction]]
+> A practice of reading‑through to surface differences‑that‑matter, staging patterned interferences that make apparatus cuts, exclusions, and accountabilities perceivable.
   
   Diffraction names a specifically onto-epistemological practice, after Haraway and Barad, for making differences-that-matter perceptible by reading phenomena “through” one another to map patterns of interference, rather than mirroring or representing them as already separate. As method and metaphor, it treats knowing as part of world-making: phenomena, researchers, and apparatuses co-constitute what becomes visible through agential cuts. Diffractive analysis follows the consequences of cuts in situated assemblages, attending to exclusions, resonances, and ethical accountabilities that reconfigure pedagogy, authorship, and agency as more-than-human practices. As a method, it moves beyond simple cause-and-effect analysis, instead focusing on the complex, generative, and often unpredictable effects that arise from the entanglement of matter and meaning in educational assemblages.
   
 Unlike reflection, which seeks to mirror or represent a pre-existing reality, diffraction attends to the patterns of difference, interference, and entanglement that emerge when phenomena inter-act . Reading diffractively involves bringing multiple theories, data sources, or historical moments into contact not to compare them, but to see what new insights or patterns are generated in their encounter. In the context of GenAI in higher education, and in AI-entangled writing instruction, diffraction involves staging careful comparative encounters--such as policy texts through classroom practices, media narratives through instructors’ fieldnotes, or LLM interface affordances through assessment rubrics--to trace how boundaries like author/tool, cheating/learning, or creativity/derivation are enacted and with what effects. This approach allows for an analysis that reads current anxieties about AI through past technological panics, tracing how they interfere and produce new affective formations. Similarly, it enables a reading of pedagogical practices, student writing, and algorithmic outputs through one another to understand how they are co-constituted.  
-### Diffractive Genealogies
+### ### [[Diffractive Genealogies]]
+> Nonlinear tracings of concepts across fields that illuminate how ideas co‑compose one another through crossings rather than through singular origins.
   
   Diffractive Genealogies trace the lineage of ideas not in linear progressions but through intersecting, non-hierarchical networks. When applied to cyborg writing and pedagogy, this concept highlights how diverse influences ,ranging from feminist theory to quantum physics ,converge in shaping new educational practices. It foregrounds the importance of embracing multiplicity in theorizing the evolution of digital learning assemblages. 
 
-### Diffractive Pedagogies
+### [[Diffractive Pedagogies]]
+> Teaching designs that stage productive interferences among theories, artifacts, and practices so new relations, judgments, and forms of learning can emerge.
   
   Diffractive Pedagogies advocate for teaching approaches that do not seek to mirror traditional (representational) methods but instead reconfigure learning through the exploration of complex entanglements. In contexts where GenAI features prominently, instructors may use diffractive techniques to interrogate the layered feedback and evolving knowledge production that characterize digital classrooms, thus creating classrooms that are open to multifaceted interpretations and continuous reinvention.  
   
 ### Disease
   
   The concept of Disease, when abstracted within new materialist thought,emerges from complex entanglements of bodies, environments, technologies, and discourses and involves considering how disruptions and distortions can serve as catalysts for change. In the digital milieu of cyborg writing, what may be initially perceived as technological ‘malfunction’ or bias can be reinterpreted as productive disruptions , or moments that prompt reevaluation of pedagogical boundaries and spur innovative practices.Disease can serve as a metaphor for disruptions, anxieties, or challenges that arise within educational assemblages, inviting attention to the material and affective dimensions of health, vulnerability, and care, and foregrounding how these are shaped by sociotechnical and institutional forces.  
-### Documents/Documentation
+### [[Documents/Documentation]]
+> World‑making practices that materialize traces—protocols, drafts, logs, screenshots—through which phenomena become legible and accountable in inquiry and assessment.
   
   Documentation in new materialist terms is about recording and materializing the fluid, often ephemeral, interactions among heterogeneous agents. For instructors and researchers working with GenAI, comprehensive documentation becomes critical in tracing how narratives in cyborg writing evolve over time. This involves not only archiving outcomes but also capturing the processual dynamics of ongoing textual production and pedagogical experimentation.
 
 ---
 - # E 
 
-### Ecology
+### [[Ecology]]
+> A relational field of human, nonhuman, and infrastructural ties in which pedagogical capacities and constraints arise from patterned interdependencies.
   
   Ecology, within new materialism, extends beyond biological systems to denote an interrelated network of relationships.  In a GenAI-inflected writing environment, ecology can be used to denote how texts, technologies, and teaching practices cohabitate. It calls for an examination of the interdependencies between digital infrastructures and human creativity, suggesting that a healthy pedagogical ecology requires attention to ethical, social, and technical factors.  
-### Ecology (minoritarian)
+### [[Ecology (minoritarian)]]
+> Ecological attunement that centers marginal lines and counter‑currents, tracking small, situated arrangements that open alternative capacities and futures.
   
   Building on the broader notion of ecology, the minoritarian dimension emphasizes the voices and practices that historically have been marginalized. In the context of cybernetic writing and AI-enabled classrooms, this concept compels educators to foreground diverse perspectives and ensure that new digital modes do not simply reinforce dominant paradigms, but instead open space for counter-hegemonic narratives and inclusive practices.  
 
-### Embodiment
+### [[Embodiment]]
+> Lived, material, and affective capacities of bodies—human and nonhuman—through which sensing, knowing, and composing take shape in situated apparatuses.
+
 Embodiment refers to the lived, material, and affective experiences of bodies as they participate in and are shaped by educational practices and technologies. Postqualitative and new materialist approaches reject mind-body dualisms, instead emphasizing the inseparability of thought, feeling, and materiality. In AI-entangled pedagogy, embodiment is not limited to human bodies but extends to the ways in which technologies, infrastructures, and environments participate in the production of knowledge and subjectivity. This perspective foregrounds the importance of attending to the sensory, emotional, and corporeal dimensions of teaching and learning.
 
 ### Emergence (of new materialism)
@@ -173,6 +175,11 @@ Entanglement is a key concept in new materialist and posthumanist scholarship, d
 ### Intersectionality
   
   Intersectionality provides a framework for understanding how systems of power overlap and produce complex, interwoven dynamics. In cyborg writing and AI-mediated pedagogy, intersectionality helps reveal how identities and biases are reproduced (or contested) when digital tools interlace with traditional academic hierarchies. It supports a research agenda that investigates the multiplicity of identities emerging from human–machine interactions.    
+
+### [[Intensity]]
+
+> A concept for tracking how differences gather force and become felt as shifts in movement, attention, and capacity within an assemblage, prior to being named as fixed emotions or meanings.
+
 ### Intra-action
 	
   Intra-action dispenses with pre-established separations between entities, suggesting instead that realities co-constitute each other through their interactions and ongoing relational encounters. Unlike *interaction*, which presumes the existence of separate, pre-formed entities, intra-action posits that entities only emerge through their entanglements with one another.This idea is central to postqualitative research by emphasizing that agency and meaning are always emergent, relational, and context-dependent. In a GenAI context, the concept captures how instructors and AI systems continuously and mutually shape each other’s functions, outcomes, and identities; it highlights how instructors, students, technologies, and institutional structures are not independent actors but are continually brought into being through their relationships. This concept challenges individualistic accounts of agency and knowledge, emphasizing the co-constitutive nature of educational phenomena. 
