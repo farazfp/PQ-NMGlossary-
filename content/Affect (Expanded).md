@@ -1,4 +1,4 @@
-*Living expanded document here: [[affect (Expanded)]]*
+
 > [!quote]
 > Affect is the name we give to those forces--visceral forces beneath, alongside, or generally other than conscious knowing, vital forces insisting beyond emotion--that can serve to drive us toward movement, toward thought and extension, that can likewise suspend us (as if in neutral) across a barely registering accretion of force-relations, or that can even leave us overwhelmed by the world’s apparent intractability.
 >
