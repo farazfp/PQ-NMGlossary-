@@ -254,17 +254,6 @@ More Posthuman Glossary (uploaded).
 Selected recent overviews and accessible touchpoints:  
 Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Overview gateway via Open Readings listing: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)  
 Duke University Press book page for Meeting the Universe Halfway (for citation details and TOC): [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
-## [[Intensity]]
-
-Ahmed, S. (2004). The cultural politics of emotion. Routledge.  
-Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
-Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.  
-Deleuze, G., & Guattari, F. (1987). A thousand plateaus: Capitalism and schizophrenia (B. Massumi, Trans.). University of Minnesota Press.  
-Massumi, B. (2002). Parables for the virtual: Movement, affect, sensation. Duke University Press.  
-Massumi, B. (2015). Politics of affect. Polity.  
-Seigworth, G. J., & Gregg, M. (2010). An inventory of shimmers. In M. Gregg & G. J. Seigworth (Eds.), The affect theory reader (pp. 1–28). Duke University Press.  
-From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary; Review of Literature draft (for AI/writing pedagogy applications).  
-Related overview of Barad’s oeuvre and key articles list: Open Readings—Karen Barad page (selection of publications and links). [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
 ## [[Creative Materiality]]
 
 Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
@@ -374,6 +363,22 @@ Yang, H.-C. (2021). A diffractive ethnography of becoming Reggio-inspired teache
 Rousell, D., & Fell, F. (2023). Meandering as learning: Co-creating care with Camissa Oceans in place. Critical Studies in Teaching and Learning, 11(2), 33–54. (Engages diffractive journaling as inquiry with ecological attunements.) [https://www.scielo.org.za/pdf/cristal/v11n2/03.pdf](https://www.scielo.org.za/pdf/cristal/v11n2/03.pdf)
 Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™: Feminism and technoscience. Routledge.
 MacLure, M. (2013). Researching without representation? Language and materiality in post-qualitative methodology. International Journal of Qualitative Studies in Education, 26(6), 658–667. (For “data that glow” as an analytic sensibility consonant with diffractive journaling.)
+
+
+
+
+
+## [[Intensity]]
+
+Ahmed, S. (2004). The cultural politics of emotion. Routledge.  
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.  
+Deleuze, G., & Guattari, F. (1987). A thousand plateaus: Capitalism and schizophrenia (B. Massumi, Trans.). University of Minnesota Press.  
+Massumi, B. (2002). Parables for the virtual: Movement, affect, sensation. Duke University Press.  
+Massumi, B. (2015). Politics of affect. Polity.  
+Seigworth, G. J., & Gregg, M. (2010). An inventory of shimmers. In M. Gregg & G. J. Seigworth (Eds.), The affect theory reader (pp. 1–28). Duke University Press.  
+From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary; Review of Literature draft (for AI/writing pedagogy applications).  
+Related overview of Barad’s oeuvre and key articles list: Open Readings—Karen Barad page (selection of publications and links). [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
 
 
 
