@@ -60,18 +60,12 @@
 ### [[Culture]]
 >Sedimented practices, narratives, and infrastructures that pattern perception, value, and possibility across assemblages. 
 ### [[Cyborg]]
-> A hybrid subject of entangled human–machine capacities that foregrounds distributed agency, boundary blurring, and the material–semiotic making of writerly life.
+> A hybrid figure of human–machine co-constitution that names how bodies, technologies, and meanings are woven together in situated practices, making visible the political and epistemic stakes of those couplings.
+### [[Cyborgification]]
+> The ongoing process through which humans, technologies, and institutions become interwoven in ways that blur boundaries between organism and machine, producing hybrid subjects, practices, and accountabilities in situated worlds.
 
-Cyborg refers to the hybrid entity that emerges from the intimate entanglement of human and machine, blurring the boundaries between organic and technological, natural and artificial. In postqualitative and new materialist research, the cyborg is not merely a science fiction figure but a conceptual tool for thinking about the distributed, relational, and more-than-human constitution of subjectivity and agency. Within the context of GenAI in higher education writing instruction, the cyborg metaphor illuminates how instructors and students become technologically augmented beings, co-producing knowledge and text in collaboration with algorithmic systems. This perspective challenges the purity of human authorship and the autonomy of the educational subject, foregrounding instead the ongoing processes of cyborgification that shape pedagogical practice, creativity, and identity. The cyborg thus becomes a figure for exploring the ethical, affective, and epistemological complexities of teaching and learning in an era of pervasive digital mediation.
-
-### ### [[Cyborgification]]
-> The ongoing process by which bodies, texts, and practices become technologically composed, reconfiguring authorship, learning, and ethics through human–machine intra-actions.
-
-Cyborgification refers to the ongoing, dynamic process through which human bodies, minds, and practices become entangled with technological systems, resulting in hybrid forms of subjectivity, agency, and knowledge production. Rather than a static state or identity, cyborgification foregrounds the continual becoming-with of humans and machines, where boundaries between organic and artificial, natural and technological, are persistently negotiated and reconfigured. In the context of GenAI in higher education writing instruction, cyborgification describes how instructors and students are incrementally transformed through their interactions with algorithmic tools, digital platforms, and institutional infrastructures. This process is not merely additive or augmentative; it is constitutive, shaping how pedagogical practices, creative acts, and even ethical orientations are enacted. Cyborgification thus highlights the procedural, relational, and more-than-human dimensions of educational life, inviting critical attention to the ways in which technological mediation reconfigures what it means to teach, learn, and write in contemporary academic assemblages.   
-  
-  ---
+---
 - # D 
-
 ### [[Difference]]
 > The generative force of variation that composes new capacities and relations, making becoming possible without presuming prior identities.
 
@@ -118,21 +112,22 @@ Unlike reflection, which seeks to mirror or represent a pre-existing reality, di
 
 Embodiment refers to the lived, material, and affective experiences of bodies as they participate in and are shaped by educational practices and technologies. Postqualitative and new materialist approaches reject mind-body dualisms, instead emphasizing the inseparability of thought, feeling, and materiality. In AI-entangled pedagogy, embodiment is not limited to human bodies but extends to the ways in which technologies, infrastructures, and environments participate in the production of knowledge and subjectivity. This perspective foregrounds the importance of attending to the sensory, emotional, and corporeal dimensions of teaching and learning.
 
-### Emergence (of new materialism)
+### [[Emergence]]
+> The appearance of novel properties and patterns from relational dynamics, emphasizing processual becoming over predetermined outcomes.
   
-  Emergence describes how novel properties arise from the complex interactions of constituent parts. In the classroom, as GenAI and traditional writing practices interact, unexpected forms of knowledge and creativity may emerge. This concept urges a focus on the process, rather than predetermined outcomes, and supports research that captures the unpredictable, generative potential of material-discursive practices.  
+Emergence describes how novel properties arise from the complex interactions of constituent parts. In the classroom, as GenAI and traditional writing practices interact, unexpected forms of knowledge and creativity may emerge. This concept urges a focus on the process, rather than predetermined outcomes, and supports research that captures the unpredictable, generative potential of material-discursive practices.  
   
-### Environmental Forms
-  
-  Environmental Forms encompass the structures and manifestations of our physical, digital, and cultural surroundings. In pedagogy, this term underscores the need to analyze how the design of digital interfaces, classroom layouts, and online communities influences learning. It encourages a rethinking of space in terms of relationality, where digital and physical environments are seen as co-constitutive in the process of knowledge production.  
-  
-### Entanglement
+### [[Entanglement]]
+> The inseparable co‑constitution of phenomena, where relata do not preexist relations and differences materialize through specific configurations.
+
 Entanglement is a key concept in new materialist and posthumanist scholarship, describing the inseparable, co-constitutive relationships among humans, nonhumans, materials, and discourses. In postqualitative research, entanglement challenges linear, cause-and-effect models of analysis, instead foregrounding the complex, dynamic, and often unpredictable ways in which phenomena emerge. In the context of GenAI and writing instruction, entanglement draws attention to the ways in which instructors, students, algorithms, policies, and material environments are mutually implicated in the ongoing reconfiguration of identities, texts, cultures, societies,  and education itself.  
   
-### Ethico-onto-epistem-ology
+### [[Ethico-onto-epistem-ology]]
+> The inseparability of ethics, being, and knowing: objectivity as situated accountability for the cuts through which worlds become.
   
   This integrative concept bridges ethics, ontology, and epistemology. It posits that knowing is inseparable from being and doing, and that ethical practices must be interwoven with material realities. For educators engaged with GenAI, this mapping suggests an approach where ethical engagement is intrinsic to the process of technological adoption and curriculum design. It supports research that is not only descriptive but also normatively engaged in reconfiguring power dynamics in digital pedagogies.  
-### Ethos / Ethics
+### [[Ethos / Ethics]]
+> Immanent, relational, and practice‑based orientations of responsibility and care that are enacted, not applied, within concrete material–discursive arrangements.
   
   Ethos and Ethics refer to the character and moral imperatives guiding practice. Ethics, in postqualitative and new materialist research, is not a matter of applying universal rules or codes but is understood as an ongoing, situated practice that emerges from the specificities of relational entanglements. In the context of cyborg writing and GenAI in higher education, they compel instructors to consider how accountability, trust, and responsibility alongside the practical realities of agency, authorship, and care within classrooms are reshaped by the ways in which human and nonhuman actors intra-act. This approach to ethics foregrounds attentiveness to the effects of research and pedagogical practices, emphasizing the need to remain responsive to the shifting dynamics and potential harms or benefits that unfold within AI-entangled assemblages. This concept invites a critical assessment of the ethical implications of postqualitative methods in education and the development of frameworks that support responsible human–machine collaborations.  
 

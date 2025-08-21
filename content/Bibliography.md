@@ -1,4 +1,4 @@
-
+- # A
 ## [[Affect]]
 
 Massumi, B. (1995). The autonomy of affect. Cultural Critique, 31, 83–109. JSTOR: [https://www.jstor.org/stable/1354446](https://www.jstor.org/stable/1354446)  
@@ -89,10 +89,9 @@ Posthuman Glossary; More Posthuman Glossary (entries on algorithmic governance, 
 ## [[Apparatus]]
 
 
-   Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
 Barad, K. (2003). Posthumanist performativity: Toward an understanding of how matter comes to matter. Signs, 28(3), 801–831.  
-Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Publisher overview: [https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623](https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623)  
-Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™. Routledge.  
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Publisher overview: [https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623](https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623)  Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™. Routledge.  
 Bennett, J. (2010). Vibrant Matter: A Political Ecology of Things. Duke University Press.  
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary; PQ_-_Intro.pdf; PQ_-_Problem_Statement_and_Research_Questions_.pdf.
 ## [[Assemblage]]
@@ -141,6 +140,8 @@ Foucault, M. (1969/1977). What is an Author? Accessible scan via Open University
 Haraway, D. (1985/1991). A Manifesto for Cyborgs. Open PDF access (teaching copy): [https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf](https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf)  
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (bibliography sections on Barad, Haraway, Deleuze & Guattari, Bennett, Massumi, Braidotti); Posthuman Glossary (entries on Diffraction, Posthumanist Performativity, Non-human Agency, Material Feminisms).
 
+---
+- # B
 ## [[Becoming]]
 
    Deleuze, G., & Guattari, F. (1987/2014). A Thousand Plateaus. Trans. B. Massumi. Bloomsbury.  
@@ -192,6 +193,27 @@ A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist R
 Structure for PQ for an AI-entangled pedagogy (uploaded draft) for concrete applications of agential cuts to pedagogical boundary-making in writing classrooms.  
 Posthuman Glossary; More Posthuman Glossary (for cross-references on apparatus, assemblage, and worlding as boundary practices).
 
+---
+- # C  
+## [[Care]]
+
+Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.  
+Braidotti, R. (2013). The posthuman. Polity.  
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.  
+Matias, C. E., & Zembylas, M. (2014). When saying you care is not really caring: Emotions of disgust, whiteness ideology, and teacher education. Critical Studies in Education, 55(3), 319–337. [https://doi.org/10.1080/17508487.2014.922489](https://doi.org/10.1080/17508487.2014.922489)  
+Puig de la Bellacasa, M. (2017). Matters of care: Speculative ethics in more than human worlds. University of Minnesota Press.  
+Star, S. L., & Ruhleder, K. (1996). Steps toward an ecology of infrastructure: Design and access for large information spaces. Information Systems Research, 7(1), 111–134. [https://doi.org/10.1287/isre.7.1.111](https://doi.org/10.1287/isre.7.1.111)  
+Tsing, A. L. (2015). The mushroom at the end of the world: On the possibility of life in capitalist ruins. Princeton University Press.
+
+From attached resources:  
+A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (entries on care, ethics, response-ability).  
+Posthuman Glossary; More Posthuman Glossary (entries on care, maintenance, repair, responsibility).
+
+Web resources:  
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Overview page: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
+
 ## [[Creativity]]
 
 Ahmed, S. (2014). The Cultural Politics of Emotion (2nd ed.). Edinburgh University Press.  
@@ -213,7 +235,6 @@ More Posthuman Glossary (uploaded).
 Selected recent overviews and accessible touchpoints:  
 Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Overview gateway via Open Readings listing: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)  
 Duke University Press book page for Meeting the Universe Halfway (for citation details and TOC): [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
-
 ## [[Intensity]]
 
 Ahmed, S. (2004). The cultural politics of emotion. Routledge.  
@@ -225,5 +246,67 @@ Massumi, B. (2015). Politics of affect. Polity.
 Seigworth, G. J., & Gregg, M. (2010). An inventory of shimmers. In M. Gregg & G. J. Seigworth (Eds.), The affect theory reader (pp. 1–28). Duke University Press.  
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary; Review of Literature draft (for AI/writing pedagogy applications).  
 Related overview of Barad’s oeuvre and key articles list: Open Readings—Karen Barad page (selection of publications and links). [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
+## [[Creative Materiality]]
 
-Suggested crosslinks: Affect; Assemblage; Intra-action; Performativity; Apparatus; Attunement; Emergence; Entanglement; Distributed agency; Material-discursive practice; Atmosphere; Perception-action loop; Threshold.
+Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.  
+Deleuze, G., & Guattari, F. (1987). A thousand plateaus: Capitalism and schizophrenia (B. Massumi, Trans.). University of Minnesota Press.  
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.  
+Ingold, T. (2013). Making: Anthropology, archaeology, art and architecture. Routledge.  
+Kohn, E. (2013). How forests think: Toward an anthropology beyond the human. University of California Press.  
+Manning, E. (2016). The minor gesture. Duke University Press.  
+Massumi, B. (2015). Politics of affect. Polity.  
+Pink, S., Sumartojo, S., Lupton, D., & Heyes LaBond, C. (2022). Data spectacle: Studying digital practices as everyday life. Bloomsbury.  
+Sterne, J. (2012). MP3: The meaning of a format. Duke University Press.
+
+Helpful overview lists for Barad’s diffractive and agential realist work: Open Readings. [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
+
+From attached resources:  
+A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (PDF).  
+Posthuman Glossary (PDF).  
+More Posthuman Glossary (PDF).
+## [[Cyborg]]
+
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.  
+Braidotti, R. (2013). The posthuman. Polity.  
+Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599. [https://doi.org/10.2307/3178066](https://doi.org/10.2307/3178066)  
+Haraway, D. (1991). A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century. In Simians, cyborgs, and women: The reinvention of nature (pp. 149–181). Routledge.  
+Hayles, N. K. (1999). How we became posthuman: Virtual bodies in cybernetics, literature, and informatics. University of Chicago Press.  
+Suchman, L. (2007). Human–machine reconfigurations: Plans and situated actions (2nd ed.). Cambridge University Press.  
+From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary.  
+Contemporary overview of Haraway’s corpus and key articles indexed: Open Readings. [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
+
+## [[Cyborgification]]
+
+
+Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.
+Braidotti, R. (2013). The posthuman. Polity.
+Deleuze, G., & Guattari, F. (1987). A thousand plateaus: Capitalism and schizophrenia (B. Massumi, Trans.). University of Minnesota Press.
+Galloway, A. R., & Thacker, E. (2007). The exploit: A theory of networks. University of Minnesota Press.
+Haraway, D. (1991). A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century. In Simians, cyborgs, and women: The reinvention of nature (pp. 149–181). Routledge.
+Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™: Feminism and technoscience. Routledge.
+Hayles, N. K. (1999). How we became posthuman: Virtual bodies in cybernetics, literature, and informatics. University of Chicago Press.
+Massumi, B. (2002). Parables for the virtual: Movement, affect, sensation. Duke University Press.
+Murris, K. (2016). The posthuman child: Educational transformation through philosophy with picturebooks. Routledge.
+Papacharissi, Z. (2015). Affective publics: Sentiment, technology, and politics. Oxford University Press.
+Puar, J. K. (2017). The right to maim: Debility, capacity, disability. Duke University Press.
+Selwyn, N. (2019). Should robots replace teachers? AI and the future of education. Polity.
+
+Selected external links:
+
+Haraway’s “Cyborg Manifesto” (open access reprints vary; Routledge book chapter is canonical).  
+Barad overview and publications list with links to key pieces via Open Readings: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)  
+Duke University Press page for Barad (2007): [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
+
+From attached resources:
+
+A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (esp. entries on cyborg, apparatus, performativity).  
+Posthuman Glossary; More Posthuman Glossary (for extended entries on posthuman subject, technicity, and assemblage).  
+PQ_—_Intro; PQ_—_Problem Statement and Research Questions_ (for alignment to AI-entangled pedagogy and methodological implications).
+
+---
+- # D 
+
