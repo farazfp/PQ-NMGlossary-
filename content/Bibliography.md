@@ -1,5 +1,5 @@
 - # A
-## [[Affect]]
+## [[affect]]
 
 Massumi, B. (1995). The autonomy of affect. Cultural Critique, 31, 83–109. JSTOR: [https://www.jstor.org/stable/1354446](https://www.jstor.org/stable/1354446)  
 Massumi, B. (2002). Parables for the Virtual: Movement, Affect, Sensation. Minneapolis: University of Minnesota Press. [https://www.upress.umn.edu/book-division/books/parables-for-the-virtual](https://www.upress.umn.edu/book-division/books/parables-for-the-virtual)  
@@ -10,7 +10,7 @@ Blackman, L. (2012). Immaterial Bodies: Affect, Embodiment, Mediation. London: S
 Gregg, M., & Seigworth, G. J. (Eds.). (2010). The Affect Theory Reader. Durham, NC: Duke University Press. [https://www.dukeupress.edu/the-affect-theory-reader](https://www.dukeupress.edu/the-affect-theory-reader)  
 Deleuze, G., & Guattari, F. (1987). A Thousand Plateaus: Capitalism and Schizophrenia. Minneapolis: University of Minnesota Press. [https://www.upress.umn.edu/book-division/books/a-thousand-plateaus](https://www.upress.umn.edu/book-division/books/a-thousand-plateaus)
 
-## [[Affective Method]]
+## [[affective Method]]
 
 Knudsen, B. T., & Stage, C. (Eds.). (2015). Affective Methodologies: Developing Cultural Research Strategies for the Study of Affect. Palgrave Macmillan. Overview and TOC at SpringerLink: [https://link.springer.com/book/10.1057/9781137483195](https://link.springer.com/book/10.1057/9781137483195); chapter introduction: [https://link.springer.com/chapter/10.1057/9781137483195_1](https://link.springer.com/chapter/10.1057/9781137483195_1)  
 Ahmed, S. (2004). The Cultural Politics of Emotion. Edinburgh University Press.  
@@ -21,7 +21,7 @@ Springgay, S. (2011). The Ethico-Aesthetics of Affect and a Sensational Pedagogy
 Lury, C., & Wakeford, N. (Eds.). (2012). Inventive Methods: The Happening of the Social. Routledge.  
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary.
 
-## [[Affirmative Difference]]
+## [[affirmative Difference]]
 
 Deleuze, G. (1994). Difference and Repetition. New York: Columbia University Press. [https://cup.columbia.edu/book/difference-and-repetition/9780231081597](https://cup.columbia.edu/book/difference-and-repetition/9780231081597)  
 Braidotti, R. (2013). The Posthuman. Cambridge: Polity. [https://www.politybooks.com/the-posthuman/](https://www.politybooks.com/the-posthuman/)  
@@ -30,14 +30,14 @@ Grosz, E. (2011). Becoming Undone: Darwinian Reflections on Life, Politics, and 
 Bennett, J. (2010). Vibrant Matter: A Political Ecology of Things. Durham, NC: Duke University Press. [https://www.dukeupress.edu/vibrant-matter](https://www.dukeupress.edu/vibrant-matter)  
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary.
 
-## [[Agency]]
+## [[agency]]
 
 Barad, K. (2007). _Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning_. Duke University Press.  
 Bennett, J. (2010). _Vibrant Matter: A Political Ecology of Things_. Duke University Press.  
 Deleuze, G., & Guattari, F. (1987). _A Thousand Plateaus: Capitalism and Schizophrenia_. University of Minnesota Press.  
 From attached resources: _A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines.pdf_; _Posthuman Glossary.pdf_.
 
-## [[Agential Cut]]
+## [[agential cut]]
 
 Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Durham, NC: Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
 Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Publisher page: [https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623](https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623) (overview listing at Open Readings: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/))
@@ -46,7 +46,7 @@ Bozalek, V., & Fullagar, S. (eds.). (2021). A Glossary for Doing Postqualitative
 More Posthuman Glossary (attached). See entry on “Collapse” for discussion connecting cuts and non-collapse in quantum measurement, and on trans-corporeal agency.
 Structure for PQ for an AI-entangled pedagogy (attached). Draft heuristic of pedagogical cuts—instrumental, collaborative, cyborgian—applying the concept to writing instruction with LLMs.
 
-## [[Agential Realism]]
+## [[agential realism]]
 
 Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Durham, NC: Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
 Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. Signs, 28(3), 801–831. [https://www.journals.uchicago.edu/doi/10.1086/345321](https://www.journals.uchicago.edu/doi/10.1086/345321)
@@ -56,7 +56,7 @@ Ulmer, J. B. (2017). Posthumanism as research methodology: Inquiry in the Anthro
 
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary; PQ_-_Intro.pdf; Review_of_Literature_draft1.pdf.
 
-## [[Agents against Agency (AAA)]]
+## [[agents Against Agency (AAA)]]
 
 Rachev, R. (2016). Agents Against Agency (AAA). New Materialism Almanac. [https://newmaterialism.eu/almanac/a/agents-against-agency.html](https://newmaterialism.eu/almanac/a/agents-against-agency.html)  
 
@@ -69,7 +69,7 @@ Ahmed, S. (2006). Queer Phenomenology: Orientations, Objects, Others. Duke Unive
 
 From attached glossaries: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (entries on Agency and Agential Cut); Posthuman Glossary (entries on Non-human Agency, Anthropocene).
 
-## [[Algorithms]]
+## [[algorithms]]
 
 Amoore, L. (2020). Cloud Ethics: Algorithms and the Attributes of Ourselves and Others. Durham, NC: Duke University Press.  
 Crawford, K. (2021). Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. New Haven, CT: Yale University Press.  
@@ -86,7 +86,7 @@ From attached materials:
 A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (for apparatus, performativity, material-discursive practice).  
 Posthuman Glossary; More Posthuman Glossary (entries on algorithmic governance, assemblage, performativity).
 
-## [[Apparatus]]
+## [[apparatus]]
 
 
 Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
@@ -94,7 +94,7 @@ Barad, K. (2003). Posthumanist performativity: Toward an understanding of how ma
 Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Publisher overview: [https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623](https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623)  Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™. Routledge.  
 Bennett, J. (2010). Vibrant Matter: A Political Ecology of Things. Duke University Press.  
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary; PQ_-_Intro.pdf; PQ_-_Problem_Statement_and_Research_Questions_.pdf.
-## [[Assemblage]]
+## [[assemblage]]
 
    Deleuze, G., & Guattari, F. (1987). A Thousand Plateaus: Capitalism and Schizophrenia. Minneapolis: University of Minnesota Press.  
 Bennett, J. (2010). Vibrant Matter: A Political Ecology of Things. Durham, NC: Duke University Press.  
@@ -107,7 +107,7 @@ Taylor, C. A. (2013). Objects, bodies and space: Gender and embodied practices o
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary; PQ_-_Intro.pdf; Review_of_Literature_draft1.pdf.
 
 
-## [[Atmosphere]]
+## [[atmosphere]]
 
 Ahmed, S. (2014). The Cultural Politics of Emotion (2nd ed.). Edinburgh University Press.  
 Ahmed, S. (2006). Queer Phenomenology: Orientations, Objects, Others. Duke University Press.  
@@ -120,7 +120,7 @@ Thibaud, J.-P. (2015). The backstage of urban ambiances: When atmospheres pervad
 Tsing, A. (2015). The Mushroom at the End of the World. Princeton University Press.  
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary; PQ_-_Intro.pdf; Review_of_Literature_draft1.pdf.
 
-## [[Attunement]]
+## [[attunement]]
 
 Ahmed, S. (2006). Queer phenomenology: Orientations, objects, others. Duke University Press.  
 Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
@@ -132,7 +132,7 @@ Massumi, B. (2015). Politics of affect. Polity.
 St. Pierre, E. A. (2011). Post qualitative research: The critique and the coming after. In N. K. Denzin & Y. S. Lincoln (Eds.), The SAGE handbook of qualitative research (4th ed., pp. 611–625). SAGE.  
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (see entries on Agency, Data, Thinking, and Index sections for “listening,” “entanglement,” and “affect”); Posthuman Glossary; More Posthuman Glossary.
 
-## [[Authorship]]
+## [[authorship]]
 
    Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
 Barthes, R. (1967/1977). The Death of the Author. University of Pennsylvania posting of the translation: [https://writing.upenn.edu/~taransky/Barthes.pdf](https://writing.upenn.edu/~taransky/Barthes.pdf)  
@@ -142,7 +142,7 @@ From attached resources: A Glossary for Doing Postqualitative New Materialist an
 
 ---
 - # B
-## [[Becoming]]
+## [[becoming]]
 
    Deleuze, G., & Guattari, F. (1987/2014). A Thousand Plateaus. Trans. B. Massumi. Bloomsbury.  
 Deleuze, G. (1994). Difference and Repetition. Trans. P. Patton. Columbia University Press. Overview: Stanford Encyclopedia of Philosophy entry on Deleuze: [https://plato.stanford.edu/entries/deleuze/](https://plato.stanford.edu/entries/deleuze/)  
@@ -155,7 +155,7 @@ From attached resources: A Glossary for Doing Postqualitative New Materialist an
 
 For a concise overview of agential realism texts (including “On Touching” and “Diffracting diffraction”), see curated links listed here: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
 
-## [[Becoming-with]]
+## [[becoming-with]]
 
    Haraway, D. (2007). When Species Meet. University of Minnesota Press. [https://www.upress.umn.edu/9780816650460/when-species-meet/](https://www.upress.umn.edu/9780816650460/when-species-meet/)  
 Haraway, D. (2016). Staying with the Trouble: Making Kin in the Chthulucene. Duke University Press. Book gateway: [https://read.dukeupress.edu/books/book/27/Staying-with-the-TroubleMaking-Kin-in-the](https://read.dukeupress.edu/books/book/27/Staying-with-the-TroubleMaking-Kin-in-the); summary with thesis quote: [https://en.wikipedia.org/wiki/Staying_with_the_Trouble](https://en.wikipedia.org/wiki/Staying_with_the_Trouble)  
@@ -165,7 +165,7 @@ Posthuman Glossary (attached). Entries on multispecies studies and species becom
 A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (attached). Entries on multispecies kin, human/animal, and walking-with synthesize becoming-with, response-ability, and relational ethics in research practice. 
 [Duke University Press](https://read.dukeupress.edu/books/book/27/Staying-with-the-TroubleMaking-Kin-in-the); [Wikipedia summary](https://en.wikipedia.org/wiki/Staying_with_the_Trouble); see also When Species Meet, [University of Minnesota Press](https://www.upress.umn.edu/9780816650460/when-species-meet/)
 
-## [[Body]]
+## [[body]]
 
 Haraway, D. (1991). Simians, Cyborgs, and Women: The Reinvention of Nature. New York: Routledge. PDF available via Monoskop: [https://monoskop.org/images/f/f3/Haraway_Donna_J_Simians_Cyborgs_and_Women_The_Reinvention_of_Nature.pdf](https://monoskop.org/images/f/f3/Haraway_Donna_J_Simians_Cyborgs_and_Women_The_Reinvention_of_Nature.pdf)  
 Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Durham, NC: Duke University Press.  
@@ -180,7 +180,7 @@ Springgay, S., & Truman, S. E. (2017). Walking Methodologies in a More-than-Huma
 From attached sources  
 A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (entries on Body, Agency, Affect, Assemblage). The “Body” entry emphasizes permeability, intra-action, and capacities, aligning with Deleuze & Guattari’s emphasis on what bodies can do, Haraway’s question about bodily boundaries, and postqualitative method experiments with movement and research-creation.  
 Posthuman Glossary; More Posthuman Glossary.
-## [[Boundary]] 
+## [[boundary]] 
 
    Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press. Publisher page: [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
 Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter. Signs, 28(3), 801–831. DOI page: [https://www.journals.uchicago.edu/doi/10.1086/345321](https://www.journals.uchicago.edu/doi/10.1086/345321)  
@@ -195,7 +195,7 @@ Posthuman Glossary; More Posthuman Glossary (for cross-references on apparatus, 
 
 ---
 - # C  
-## [[Care]]
+## [[care]]
 
 Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
 Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
@@ -213,7 +213,7 @@ Posthuman Glossary; More Posthuman Glossary (entries on care, maintenance, repai
 
 Web resources:  
 Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Overview page: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
-## [[Composition]]
+## [[composition]]
 
 Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.
 Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
@@ -233,7 +233,7 @@ Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(
 Emerson, L., & MacKay, J. (2020). Rhetorical assemblages and writing with/in networks. College Composition and Communication, 71(4), 554–582.
 Boyle, C. (2018). Rhetoric as a posthuman practice. Ohio State University Press.
 Rickert, T. (2013). Ambient rhetoric: The attunements of rhetorical being. University of Pittsburgh Press.
-## [[Creativity]]
+## [[creativity]]
 
 Ahmed, S. (2014). The Cultural Politics of Emotion (2nd ed.). Edinburgh University Press.  
 Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
@@ -254,7 +254,7 @@ More Posthuman Glossary (uploaded).
 Selected recent overviews and accessible touchpoints:  
 Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Overview gateway via Open Readings listing: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)  
 Duke University Press book page for Meeting the Universe Halfway (for citation details and TOC): [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
-## [[Creative Materiality]]
+## [[creative Materiality]]
 
 Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
 Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
@@ -274,7 +274,7 @@ From attached resources:
 A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (PDF).  
 Posthuman Glossary (PDF).  
 More Posthuman Glossary (PDF).
-## [[Cyborg]]
+## [[cyborg]]
 
 Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.  
 Braidotti, R. (2013). The posthuman. Polity.  
@@ -285,7 +285,7 @@ Suchman, L. (2007). Human–machine reconfigurations: Plans and situated actions
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary.  
 Contemporary overview of Haraway’s corpus and key articles indexed: Open Readings. [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
 
-## [[Cyborgification]]
+## [[cyborgification]]
 
 
 Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.
@@ -318,7 +318,7 @@ PQ_—_Intro; PQ_—_Problem Statement and Research Questions_ (for alignment to
 ---
 - # D 
 
-## [[Difference]]
+## [[difference]]
 
 Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
 Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
@@ -333,7 +333,7 @@ From attached sources for crosslinking and local grounding:
 Zembylas, M., & colleagues in Posthuman Glossary collections (Posthuman Glossary; More Posthuman Glossary).  
 A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (attached).
 
-## [[Diffraction]]
+## [[diffraction]]
 
 Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
 Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. [https://doi.org/10.1080/13534645.2014.927623](https://doi.org/10.1080/13534645.2014.927623)  
@@ -345,7 +345,7 @@ St. Pierre, E. A. (2019). Post qualitative inquiry in an ontology of immanence. 
 Taylor, C., & Ivinson, G. (2013). Material feminisms: New directions for education. Gender and Education, 25(6), 665–670. [https://doi.org/10.1080/09540253.2013.834618](https://doi.org/10.1080/09540253.2013.834618)  
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary.
 
-## [[Diffractive Reading]]
+## [[diffractive Reading]]
 
 Barad, K. (2007). _Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning_. Duke University Press.
 Haraway, D. J. (1997). _[Modest_witness@second_millennium.FemaleMan_meets_oncomouse](mailto:Modest_witness@second_millennium.FemaleMan_meets_oncomouse)™: Feminism and technoscience_. Routledge.
@@ -353,7 +353,7 @@ Jackson, A. Y., & Mazzei, L. A. (2012). _Thinking with theory in qualitative res
 Jackson, A. Y., & Mazzei, L. A. (2013). Plugging one text into another: A diffractive reading of data and theory. _Qualitative Inquiry_, _19_(4), 261–271. [https://doi.org/10.1177/1077800412468053](https://doi.org/10.1177/1077800412468053)
 From attached resources: _A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines.pdf_
 
-## [[Diffractive Journaling]]
+## [[diffractive Journaling]]
 
 Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
 Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. (Overview and links) [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
@@ -368,7 +368,7 @@ MacLure, M. (2013). Researching without representation? Language and materiality
 
 
 
-## [[Intensity]]
+## [[intensity]]
 
 Ahmed, S. (2004). The cultural politics of emotion. Routledge.  
 Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  

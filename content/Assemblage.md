@@ -12,4 +12,4 @@ Assemblage clarifies the classroom as a fluctuating ecology in which instructors
 
 ## 💡[[Bibliography#Assemblage|Further Reading]]
 
-[[Assemblage (Expanded) Draft]]
+[[assemblage (Expanded) Draft]]
