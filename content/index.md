@@ -67,17 +67,10 @@
 ---
 - # D 
 ### [[Difference]]
-> The generative force of variation that composes new capacities and relations, making becoming possible without presuming prior identities.
-
-Difference is a foundational concept in postqualitative and new materialist thought, emphasizing the productive, generative force of variation, divergence, and multiplicity. Rather than viewing difference as a deficit or deviation from a norm, this perspective recognizes difference as essential to the ongoing processes of becoming and transformation. In AI-entangled pedagogy, difference manifests in the diverse ways instructors and students engage with GenAI, as well as in the multiple, sometimes unpredictable, outcomes that arise from these engagements. Attending to difference enables a more nuanced understanding of how power, identity, and knowledge are negotiated in educational contexts.
-
+> A generative principle of becoming that names how realities, relations, and capacities emerge through variation, differentiation, and repetition-with-change, rather than from fixed essences or stable identities.
 ### [[Diffraction]]
-> A practice of reading‑through to surface differences‑that‑matter, staging patterned interferences that make apparatus cuts, exclusions, and accountabilities perceivable.
-  
-  Diffraction names a specifically onto-epistemological practice, after Haraway and Barad, for making differences-that-matter perceptible by reading phenomena “through” one another to map patterns of interference, rather than mirroring or representing them as already separate. As method and metaphor, it treats knowing as part of world-making: phenomena, researchers, and apparatuses co-constitute what becomes visible through agential cuts. Diffractive analysis follows the consequences of cuts in situated assemblages, attending to exclusions, resonances, and ethical accountabilities that reconfigure pedagogy, authorship, and agency as more-than-human practices. As a method, it moves beyond simple cause-and-effect analysis, instead focusing on the complex, generative, and often unpredictable effects that arise from the entanglement of matter and meaning in educational assemblages.
-  
-Unlike reflection, which seeks to mirror or represent a pre-existing reality, diffraction attends to the patterns of difference, interference, and entanglement that emerge when phenomena inter-act . Reading diffractively involves bringing multiple theories, data sources, or historical moments into contact not to compare them, but to see what new insights or patterns are generated in their encounter. In the context of GenAI in higher education, and in AI-entangled writing instruction, diffraction involves staging careful comparative encounters--such as policy texts through classroom practices, media narratives through instructors’ fieldnotes, or LLM interface affordances through assessment rubrics--to trace how boundaries like author/tool, cheating/learning, or creativity/derivation are enacted and with what effects. This approach allows for an analysis that reads current anxieties about AI through past technological panics, tracing how they interfere and produce new affective formations. Similarly, it enables a reading of pedagogical practices, student writing, and algorithmic outputs through one another to understand how they are co-constituted.  
-### ### [[Diffractive Genealogies]]
+> An onto-epistemological practice for noticing differences-that-matter by reading phenomena through one another to trace patterns of interference and consequence in how worlds are made and known.
+### [[Diffractive Genealogies]]
 > Nonlinear tracings of concepts across fields that illuminate how ideas co‑compose one another through crossings rather than through singular origins.
   
   Diffractive Genealogies trace the lineage of ideas not in linear progressions but through intersecting, non-hierarchical networks. When applied to cyborg writing and pedagogy, this concept highlights how diverse influences ,ranging from feminist theory to quantum physics ,converge in shaping new educational practices. It foregrounds the importance of embracing multiplicity in theorizing the evolution of digital learning assemblages. 
@@ -86,6 +79,13 @@ Unlike reflection, which seeks to mirror or represent a pre-existing reality, di
 > Teaching designs that stage productive interferences among theories, artifacts, and practices so new relations, judgments, and forms of learning can emerge.
   
   Diffractive Pedagogies advocate for teaching approaches that do not seek to mirror traditional (representational) methods but instead reconfigure learning through the exploration of complex entanglements. In contexts where GenAI features prominently, instructors may use diffractive techniques to interrogate the layered feedback and evolving knowledge production that characterize digital classrooms, thus creating classrooms that are open to multifaceted interpretations and continuous reinvention.  
+
+### [[Diffractive Journaling]]
+> A reflective-writing practice composed as a diffractive apparatus: writing with and through heterogeneous materials to trace differences-that-matter, attune to interference patterns, and make accountable the agential cuts that shape what becomes sensible in inquiry.
+
+### [[Diffractive Reading]]
+> A methodological practice of reading multiple sources through one another to generate novel insights from the interference patterns they produce when brought into contact.
+
   
 ### Disease
   

@@ -213,7 +213,26 @@ Posthuman Glossary; More Posthuman Glossary (entries on care, maintenance, repai
 
 Web resources:  
 Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Overview page: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
+## [[Composition]]
 
+Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.
+Deleuze, G., & Guattari, F. (1987). A thousand plateaus: Capitalism and schizophrenia (B. Massumi, Trans.). University of Minnesota Press.
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.
+Massumi, B. (2015). Politics of affect. Polity.
+
+- From attached resources:
+
+Braidotti, R., & Hlavajova, M. (Eds.). (2018). Posthuman glossary. Bloomsbury. [See: Posthuman Glossary.pdf; More Posthuman Glossary.pdf]
+Renold, E., Ringrose, J., & Warfield, K. (Eds.). (2023). A glossary for doing postqualitative new materialist and critical posthumanist research across disciplines. [See: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines.pdf]
+
+other articles and resources:
+
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Publisher page: [https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623](https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623)
+Emerson, L., & MacKay, J. (2020). Rhetorical assemblages and writing with/in networks. College Composition and Communication, 71(4), 554–582.
+Boyle, C. (2018). Rhetoric as a posthuman practice. Ohio State University Press.
+Rickert, T. (2013). Ambient rhetoric: The attunements of rhetorical being. University of Pittsburgh Press.
 ## [[Creativity]]
 
 Ahmed, S. (2014). The Cultural Politics of Emotion (2nd ed.). Edinburgh University Press.  
@@ -309,4 +328,52 @@ PQ_—_Intro; PQ_—_Problem Statement and Research Questions_ (for alignment to
 
 ---
 - # D 
+
+## [[Difference]]
+
+Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. [https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623](https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623)  
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.  
+Deleuze, G. (1994). Difference and repetition (P. Patton, Trans.). Columbia University Press.  
+Deleuze, G., & Guattari, F. (1987). A thousand plateaus: Capitalism and schizophrenia (B. Massumi, Trans.). University of Minnesota Press.  
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.  
+Massumi, B. (2015). Politics of affect. Polity.
+
+From attached sources for crosslinking and local grounding:  
+Zembylas, M., & colleagues in Posthuman Glossary collections (Posthuman Glossary; More Posthuman Glossary).  
+A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (attached).
+
+## [[Diffraction]]
+
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. [https://doi.org/10.1080/13534645.2014.927623](https://doi.org/10.1080/13534645.2014.927623)  
+Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™: Feminism and technoscience. Routledge.  
+Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599. [https://doi.org/10.2307/3178066](https://doi.org/10.2307/3178066)  
+Manning, E. (2016). The minor gesture. Duke University Press.  
+Mazzei, L. A. (2014). Beyond an easy sense: A diffractive analysis. Qualitative Inquiry, 20(6), 742–746. [https://doi.org/10.1177/1077800414530257](https://doi.org/10.1177/1077800414530257)  
+St. Pierre, E. A. (2019). Post qualitative inquiry in an ontology of immanence. Qualitative Inquiry, 25(1), 3–16. [https://doi.org/10.1177/1077800418772634](https://doi.org/10.1177/1077800418772634)  
+Taylor, C., & Ivinson, G. (2013). Material feminisms: New directions for education. Gender and Education, 25(6), 665–670. [https://doi.org/10.1080/09540253.2013.834618](https://doi.org/10.1080/09540253.2013.834618)  
+From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary.
+
+## [[Diffractive Reading]]
+
+Barad, K. (2007). _Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning_. Duke University Press.
+Haraway, D. J. (1997). _[Modest_witness@second_millennium.FemaleMan_meets_oncomouse](mailto:Modest_witness@second_millennium.FemaleMan_meets_oncomouse)™: Feminism and technoscience_. Routledge.
+Jackson, A. Y., & Mazzei, L. A. (2012). _Thinking with theory in qualitative research: Viewing data across multiple perspectives_. Routledge.
+Jackson, A. Y., & Mazzei, L. A. (2013). Plugging one text into another: A diffractive reading of data and theory. _Qualitative Inquiry_, _19_(4), 261–271. [https://doi.org/10.1177/1077800412468053](https://doi.org/10.1177/1077800412468053)
+From attached resources: _A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines.pdf_
+
+## [[Diffractive Journaling]]
+
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. (Overview and links) [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
+Bozalek, V., & Murris, K. (Eds.). (2021). A glossary for doing postqualitative new materialist and critical posthumanist research across disciplines. Routledge. [Attached resource; see entries on diffraction, data, and method for methodological translations.]
+Murris, K. (2016). Teaching postqualitatively (Report). University of Cape Town. (Mentions diffractive journaling in documenting postqualitative pedagogies.) [https://researchportal.bath.ac.uk/files/335370786/Teaching_postqualitatively_FINAL_REVISION.pdf](https://researchportal.bath.ac.uk/files/335370786/Teaching_postqualitatively_FINAL_REVISION.pdf)
+Yang, H.-C. (2021). A diffractive ethnography of becoming Reggio-inspired teachers in Taiwan (Doctoral dissertation, Florida State University). (Uses observation, intraview, and diffractive journaling as applied methods.) [https://search.proquest.com/openview/f55c525860e1165498fa6bec1c1fa441/1](https://search.proquest.com/openview/f55c525860e1165498fa6bec1c1fa441/1)
+Rousell, D., & Fell, F. (2023). Meandering as learning: Co-creating care with Camissa Oceans in place. Critical Studies in Teaching and Learning, 11(2), 33–54. (Engages diffractive journaling as inquiry with ecological attunements.) [https://www.scielo.org.za/pdf/cristal/v11n2/03.pdf](https://www.scielo.org.za/pdf/cristal/v11n2/03.pdf)
+Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™: Feminism and technoscience. Routledge.
+MacLure, M. (2013). Researching without representation? Language and materiality in post-qualitative methodology. International Journal of Qualitative Studies in Education, 26(6), 658–667. (For “data that glow” as an analytic sensibility consonant with diffractive journaling.)
+
+
 
