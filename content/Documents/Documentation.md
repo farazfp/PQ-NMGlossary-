@@ -7,21 +7,3 @@ Thinking with **Bowker and Star** on classification and infrastructure, document
 Postqualitative inquiry treats documentation as a situated craft that configures the phenomenon. Research notes, maps, analytic memos, protocols, consent materials, and data displays participate in worlding the study. Decisions about what to inscribe, how to format it, and where it circulates are methodological choices with ethical stakes. Documentation practices become sites for experimenting with [[diffractive reading]]s, tracing assemblages, and attending to distributed [[agency]]. Rather than treating documents as detachable data points, the researcher works with documentation as a living set of relations: generative, partial, accountable, and responsive to participants and materials that co-compose the inquiry.
 
 In AI-entangled writing instruction, documentation practices are central to how authorship, learning, and creativity are enacted. Assignment prompts, policy statements on AI use, platform logs, prompt histories, version control timelines, feedback rubrics, and classroom guidelines are not only background paperwork. They are active elements in the pedagogical [[assemblage]] that shape processes, distribute responsibility, and make certain actions legible. For example, documenting composing processes through saved drafts and prompt histories can foreground collaboration between student and model, shifting evaluation from product to process. Carefully designed documentation can also hold space for lived and embodied experiences of instructors and students by inviting reflective traces that register uncertainty, improvisation, and care. In practice, reworking documentation—rewriting a policy to name AI as a participant, redesigning a rubric to include relational creativity, or instituting reflective process logs—reconfigures what counts as legitimate writing and how learning is recognized in the classroom.
-
-Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
-Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
-Bowker, G. C., & Star, S. L. (1999). Sorting things out: Classification and its consequences. MIT Press.  
-Haraway, D. (1991). Simians, cyborgs, and women: The reinvention of nature. Routledge.  
-Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™: Feminism and technoscience. Routledge.  
-Ingold, T. (2007). Lines: A brief history. Routledge.  
-Latour, B. (1999). Pandora’s hope: Essays on the reality of science studies. Harvard University Press.  
-Massumi, B. (2002). Parables for the virtual: Movement, affect, sensation. Duke University Press.  
-Suchman, L. (2007). Human–machine reconfigurations: Plans and situated actions (2nd ed.). Cambridge University Press.
-
-From attached resources:  
-Braidotti, R., & Hlavajova, M. (Eds.). (2018). Posthuman glossary. Bloomsbury. [See attached “Posthuman Glossary.pdf” and “More Posthuman Glossary.pdf”.]  
-Ringrose, J., et al. (Eds.). (2024). A glossary for doing postqualitative new materialist and critical posthumanist research across disciplines. [See attached PDF.]
-
-Targeted articles and chapters available online:  
-Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. [https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623](https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623)  
-Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599. [https://www.jstor.org/stable/3178066](https://www.jstor.org/stable/3178066)

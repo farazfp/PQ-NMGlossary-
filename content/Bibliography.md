@@ -317,7 +317,48 @@ PQ_—_Intro; PQ_—_Problem Statement and Research Questions_ (for alignment to
 
 ---
 - # D 
+## [[data]]
 
+Ahmed, S. (2012). On being included: Racism and diversity in institutional life. Duke University Press.  
+Bates, J., Lin, Y.-W., & Goodale, P. (2016). Data journeys: Capturing provenance, formation, and transformation of data. International Journal of Digital Curation, 11(2), 1–17. [https://doi.org/10.2218/ijdc.v11i2.389](https://doi.org/10.2218/ijdc.v11i2.389)  
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Bowker, G. C., & Star, S. L. (1999). Sorting things out: Classification and its consequences. MIT Press.  
+boyd, d., & Crawford, K. (2012). Critical questions for Big Data. Information, Communication & Society, 15(5), 662–679. [https://doi.org/10.1080/1369118X.2012.678878](https://doi.org/10.1080/1369118X.2012.678878)  
+D’Ignazio, C., & Klein, L. F. (2020). Data feminism. MIT Press. [https://datafeminism.io](https://datafeminism.io)  
+Gitelman, L. (Ed.). (2013). “Raw data” is an oxymoron. MIT Press.  
+Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599.  
+Kallinikos, J., Aaltonen, A., & Marton, A. (2013). The ambivalent ontology of digital artifacts. MIS Quarterly, 37(2), 357–370.  
+Kitchin, R. (2014). The data revolution: Big Data, open data, data infrastructures & their consequences. Sage.  
+Pasquale, F. (2015). The black box society. Harvard University Press.  
+From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (glossary entries on data, apparatus, and material-discursive practice); Posthuman Glossary; More Posthuman Glossary.
+
+## [[datafication]]
+
+
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
+
+Bozalek, V., & Kuby, C. R. (2021). Data. In K. Murris (Ed.), Navigating the postqualitative, new materialist and critical posthumanist terrain across disciplines: An introductory guide (pp. 49–54). Routledge. [See uploaded: A Glossary for Doing Postqualitative… Across Disciplines.pdf]
+
+Couldry, N., & Mejias, U. A. (2019). The costs of connection: How data is colonizing human life and appropriating it for capitalism. Stanford University Press.
+
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.
+
+Kitchin, R. (2014). The data revolution: Big data, open data, data infrastructures and their consequences. SAGE.
+
+Pasquale, F. (2015). The black box society: The secret algorithms that control money and information. Harvard University Press.
+
+Taylor, L., Floridi, L., & van der Sloot, B. (Eds.). (2017). Group privacy: New challenges of data technologies. Springer.
+
+Williamson, B. (2017). Big data in education: The digital future of learning, policy and practice. SAGE.
+
+Zuboff, S. (2019). The age of surveillance capitalism: The fight for a human future at the new frontier of power. PublicAffairs.
+
+From uploaded resources: Posthuman Glossary; More Posthuman Glossary (see “Posthuman Data” entry and cumulative bibliography).
+
+External pointers:
+
+- Barad text list and articles overview: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
+- Duke University Press page for Meeting the Universe Halfway: [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
 ## [[difference]]
 
 Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  

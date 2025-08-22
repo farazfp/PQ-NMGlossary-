@@ -66,6 +66,11 @@
 
 ---
 - # D 
+### [[data]]
+> Material-discursive traces produced by apparatuses of collection, preprocessing, and modeling. Data are relational, situated, and performative: they enact cuts that delineate what becomes an object of inquiry, what counts as evidence, and which learning outcomes are legible in writing pedagogy.
+
+### [[datafication]]
+> Ongoing sociotechnical processes that render activities, bodies, and texts into calculable units for extraction, optimization, and governance across platforms and institutions.
 ### [[difference]]
 > A generative principle of becoming that names how realities, relations, and capacities emerge through variation, differentiation, and repetition-with-change, rather than from fixed essences or stable identities.
 ### [[diffraction]]
