@@ -345,6 +345,43 @@ St. Pierre, E. A. (2019). Post qualitative inquiry in an ontology of immanence. 
 Taylor, C., & Ivinson, G. (2013). Material feminisms: New directions for education. Gender and Education, 25(6), 665–670. [https://doi.org/10.1080/09540253.2013.834618](https://doi.org/10.1080/09540253.2013.834618)  
 From attached resources: A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines; Posthuman Glossary; More Posthuman Glossary.
 
+## [[diffractive Genealogies]]
+
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. [https://doi.org/10.1080/13534645.2014.927623](https://doi.org/10.1080/13534645.2014.927623) (overview: [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/))  
+Foucault, M. (1991). Nietzsche, genealogy, history. In P. Rabinow (Ed.), The Foucault reader (pp. 76–100). Penguin.  
+Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™: Feminism and technoscience. Routledge.  
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.  
+St. Pierre, E. A. (2019). Post qualitative inquiry in an ontology of immanence. Qualitative Inquiry, 25(1), 3–16. [https://doi.org/10.1177/1077800418772634](https://doi.org/10.1177/1077800418772634)  
+Jackson, A. Y., & Mazzei, L. A. (2012). Thinking with theory in qualitative research: Viewing data across multiple perspectives. Routledge.  
+Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
+Massumi, B. (2015). Politics of affect. Polity.  
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.
+
+From attached resources:  
+A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (uploaded).  
+Posthuman Glossary; More Posthuman Glossary (uploaded).  
+PQ_-_Intro; PQ_-_Problem_Statement_and_Research_Questions_; Review_of_Literature_draft1 (uploaded) for context-specific applications to AI-entangled pedagogy.
+
+## [[diffractive Pedagogies]]
+
+Aguilera, E., & Vickery, A. E. (2020). Ideologies of data and data literacy: Critical approaches to data in secondary English classrooms. Research in the Teaching of English, 54(4), 367–390.
+Bainbridge, A., & Carr, D. (2022). Posthuman pedagogies in practice: Arts-based responses to technology and the more-than-human. International Journal of Education Through Art, 18(2), 173–188. [https://doi.org/10.1386/eta_00089_1](https://doi.org/10.1386/eta_00089_1)
+
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. [https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623](https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623)
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.
+Deleuze, G., & Guattari, F. (1987). A thousand plateaus: Capitalism and schizophrenia (B. Massumi, Trans.). University of Minnesota Press.
+Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™: Feminism and technoscience. Routledge.
+Kuby, C. R., & Rucker, T. (2016). Go be a writer! Expanding the curricular boundaries of literacy learning with children. Teachers College Press.
+Murris, K. (2016). The posthuman child: Educational transformation through philosophy with picturebooks. Routledge.
+Shelton, C., Jandrić, P., & MacKenzie, A. (2020). The dialectic of academic work: Neoliberalism and the academic condition. Knowledge Cultures, 8(2), 7–27.
+
+From attached resources:  
+A Glossary for Doing Postqualitative New Materialist and Critical Posthumanist Research Across Disciplines (PDF).  
+Posthuman Glossary (PDF); More Posthuman Glossary (PDF).  
+Structure for PQ for an AI-entangled pedagogy (PDF).  
+PQ – Intro; PQ – Problem Statement and Research Questions; Review of Literature drafts (PDFs/Docs).
 ## [[diffractive Reading]]
 
 Barad, K. (2007). _Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning_. Duke University Press.

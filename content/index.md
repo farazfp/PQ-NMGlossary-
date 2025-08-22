@@ -72,24 +72,15 @@
 > An onto-epistemological practice for noticing differences-that-matter by reading phenomena through one another to trace patterns of interference and consequence in how worlds are made and known.
 ### [[diffractive Genealogies]]
 > Nonlinear tracings of concepts across fields that illuminate how ideas co‑compose one another through crossings rather than through singular origins.
-  
-  Diffractive Genealogies trace the lineage of ideas not in linear progressions but through intersecting, non-hierarchical networks. When applied to cyborg writing and pedagogy, this concept highlights how diverse influences ,ranging from feminist theory to quantum physics ,converge in shaping new educational practices. It foregrounds the importance of embracing multiplicity in theorizing the evolution of digital learning assemblages. 
-
 ### [[diffractive Pedagogies]]
-> Teaching designs that stage productive interferences among theories, artifacts, and practices so new relations, judgments, and forms of learning can emerge.
+> Designing and studying teaching that stage productive interferences among theories, artifacts, and practices so new relations, judgments, and forms of learning can emerge by reading classroom elements through one another and noticing how differences take shape and with what consequences; treating pedagogy as a material-discursive arrangement that participates in making what counts as learning.
   
-  Diffractive Pedagogies advocate for teaching approaches that do not seek to mirror traditional (representational) methods but instead reconfigure learning through the exploration of complex entanglements. In contexts where GenAI features prominently, instructors may use diffractive techniques to interrogate the layered feedback and evolving knowledge production that characterize digital classrooms, thus creating classrooms that are open to multifaceted interpretations and continuous reinvention.  
-
 ### [[diffractive Journaling]]
 > A reflective-writing practice composed as a diffractive apparatus: writing with and through heterogeneous materials to trace differences-that-matter, attune to interference patterns, and make accountable the agential cuts that shape what becomes sensible in inquiry.
 
 ### [[diffractive Reading]]
 > A methodological practice of reading multiple sources through one another to generate novel insights from the interference patterns they produce when brought into contact.
-
-  
-### Disease
-  
-  The concept of Disease, when abstracted within new materialist thought,emerges from complex entanglements of bodies, environments, technologies, and discourses and involves considering how disruptions and distortions can serve as catalysts for change. In the digital milieu of cyborg writing, what may be initially perceived as technological ‘malfunction’ or bias can be reinterpreted as productive disruptions , or moments that prompt reevaluation of pedagogical boundaries and spur innovative practices.Disease can serve as a metaphor for disruptions, anxieties, or challenges that arise within educational assemblages, inviting attention to the material and affective dimensions of health, vulnerability, and care, and foregrounding how these are shaped by sociotechnical and institutional forces.  
+ 
 ### [[Documents/Documentation]]
 > World‑making practices that materialize traces—protocols, drafts, logs, screenshots—through which phenomena become legible and accountable in inquiry and assessment.
   
