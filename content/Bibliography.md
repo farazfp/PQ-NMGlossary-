@@ -401,10 +401,42 @@ Rousell, D., & Fell, F. (2023). Meandering as learning: Co-creating care with Ca
 Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™: Feminism and technoscience. Routledge.
 MacLure, M. (2013). Researching without representation? Language and materiality in post-qualitative methodology. International Journal of Qualitative Studies in Education, 26(6), 658–667. (For “data that glow” as an analytic sensibility consonant with diffractive journaling.)
 
+## [[Documentation]]
 
+Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Bowker, G. C., & Star, S. L. (1999). Sorting things out: Classification and its consequences. MIT Press.  
+Haraway, D. (1991). Simians, cyborgs, and women: The reinvention of nature. Routledge.  
+Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™: Feminism and technoscience. Routledge.  
+Ingold, T. (2007). Lines: A brief history. Routledge.  
+Latour, B. (1999). Pandora’s hope: Essays on the reality of science studies. Harvard University Press.  
+Massumi, B. (2002). Parables for the virtual: Movement, affect, sensation. Duke University Press.  
+Suchman, L. (2007). Human–machine reconfigurations: Plans and situated actions (2nd ed.). Cambridge University Press.
 
+From attached resources:  
+Braidotti, R., & Hlavajova, M. (Eds.). (2018). Posthuman glossary. Bloomsbury. [See attached “Posthuman Glossary.pdf” and “More Posthuman Glossary.pdf”.]  
+Ringrose, J., et al. (Eds.). (2024). A glossary for doing postqualitative new materialist and critical posthumanist research across disciplines. [See attached PDF.]
 
+Targeted articles and chapters available online:  
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. [https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623](https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623)  
+Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599. [https://www.jstor.org/stable/3178066](https://www.jstor.org/stable/3178066)
 
+## [[enactment]]
+
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
+Barad, K. (2003). Posthumanist performativity: Toward an understanding of how matter comes to matter. Signs, 28(3), 801–831. [https://www.jstor.org/stable/10.1086/345321](https://www.jstor.org/stable/10.1086/345321)
+Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599.
+Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™: Feminism and technoscience. Routledge.
+Mol, A. (2002). The body multiple: Ontology in medical practice. Duke University Press.
+Law, J. (2004). After method: Mess in social science research. Routledge.
+
+From attached resources:  
+Thiele, K., & van der Tuin, I. (Eds.). (2017). Posthuman glossary. Bloomsbury. [See “Performativity,” “Material-discursive practices,” and related entries in Posthuman Glossary.pdf and More Posthuman Glossary.pdf.]
+
+Dolphijn, R., & van der Tuin, I. (2012). New materialism: Interviews & cartographies. Open Humanities Press. (Includes interview with Barad on matter, feeling, and practice.)
+
+For a concise overview of Barad’s method and terminology:  
+Open Readings. (n.d.). Karen Barad. Includes references and links to key articles. [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
 ## [[intensity]]
 
 Ahmed, S. (2004). The cultural politics of emotion. Routledge.  

@@ -81,10 +81,8 @@
 ### [[diffractive Reading]]
 > A methodological practice of reading multiple sources through one another to generate novel insights from the interference patterns they produce when brought into contact.
  
-### [[Documents/Documentation]]
-> World‑making practices that materialize traces—protocols, drafts, logs, screenshots—through which phenomena become legible and accountable in inquiry and assessment.
-  
-  Documentation in new materialist terms is about recording and materializing the fluid, often ephemeral, interactions among heterogeneous agents. For instructors and researchers working with GenAI, comprehensive documentation becomes critical in tracing how narratives in cyborg writing evolve over time. This involves not only archiving outcomes but also capturing the processual dynamics of ongoing textual production and pedagogical experimentation.
+### [[Documentation]]
+> Practices and artifacts that materialize, circulate, and stabilize relations and traces of knowing-doing in an inquiry. Documentation is an active participant in how phenomena take shape and become legible and accountable in inquiry and assessment.
 
 ---
 - # E 
