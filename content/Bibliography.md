@@ -462,6 +462,57 @@ Targeted articles and chapters available online:
 Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. [https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623](https://www.tandfonline.com/doi/abs/10.1080/13534645.2014.927623)  
 Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599. [https://www.jstor.org/stable/3178066](https://www.jstor.org/stable/3178066)
 
+## [[ecology]]
+Alaimo, S. (2016). Exposed: Environmental politics and pleasures in posthuman times. Minneapolis, MN: University of Minnesota Press.  
+
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. 
+
+Durham, NC: Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Durham, NC: Duke University Press.  
+
+Braidotti, R., & Hlavajova, M. (Eds.). (2018). Posthuman glossary. London, UK: Bloomsbury. 
+
+Braidotti, R., Jones, E., & Klumbytė, G. (Eds.). (2023). More posthuman glossary. London, UK: Bloomsbury.
+
+Gabrys, J. (2016). Program earth: Environmental sensing technology and the making of a computational planet. Minneapolis, MN: University of Minnesota Press.  
+
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Durham, NC: Duke University Press.  
+
+Hörl, E. (Ed.). (2017). General ecology: The new ecological paradigm. London, UK: Bloomsbury.  
+
+Kimmerer, R. W. (2013). Braiding sweetgrass: Indigenous wisdom, scientific knowledge and the teachings of plants. Minneapolis, MN: Milkweed Editions.  
+
+Kirksey, E. (2015). Emergent ecologies. Durham, NC: Duke University Press.  
+Massumi, B. (2015). Politics of affect. Cambridge, UK: Polity.  
+
+Neimanis, A. (2017). Bodies of water: Posthuman feminist phenomenology. London, UK: Bloomsbury.  
+
+Povinelli, E. (2016). Geontologies: A requiem to late liberalism. Durham, NC: Duke University Press.  
+
+Puig de la Bellacasa, M. (2017). Matters of care: Speculative ethics in more than human worlds. Minneapolis, MN: University of Minnesota Press.  
+Rights of nature and legal ecologies entries in More Posthuman Glossary, including “EcoLaw,” “Humus Economicus,” “Syndemic,” and “Hydrofeminism.” 
+## [[embodiment]]
+
+Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [Publisher](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.  
+Braidotti, R., & Hlavajova, M. (Eds.). (2018). Posthuman glossary. Bloomsbury. [ 
+Braidotti, R., Jones, E., & Klumbytė, G. (Eds.). (2022). More posthuman glossary. Bloomsbury. 
+Haraway, D. (1991). Simians, cyborgs, and women: The reinvention of nature. Routledge.  
+Haraway, D. (1997). [Modest_Witness@Second_Millennium.FemaleMan](mailto:Modest_Witness@Second_Millennium.FemaleMan)©_Meets_OncoMouse™. Routledge.  
+Massumi, B. (2002). Parables for the virtual: Movement, affect, sensation. Duke University Press.  
+Nail, T. (2019). Theory of the image. Oxford University Press.  
+NeCamp, S., & DeChaine, D. R. (Eds.). (2024). Rhetoric, writing, and AI: Teaching with and about large language models. Utah State University Press.  
+Stewart, K. (2007). Ordinary affects. Duke University Press.
+## [[emergence]]
+Ahmed, S. (2004). The cultural politics of emotion. Edinburgh University Press.  
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press.  
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.  
+Deleuze, G., & Guattari, F. (1987). A thousand plateaus: Capitalism and schizophrenia (B. Massumi, Trans.). University of Minnesota Press.  
+Massumi, B. (2015). Politics of affect. Polity.
+Stewart, K. (2007). Ordinary affects. Duke University Press.  
+Taylor, C. A., & Bayley, A. (Eds.). (2019). Posthumanism and higher education: Reimagining pedagogy, practice and research. Palgrave Macmillan.
 ## [[enactment]]
 
 Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
@@ -478,6 +529,21 @@ Dolphijn, R., & van der Tuin, I. (2012). New materialism: Interviews & cartograp
 
 For a concise overview of Barad’s method and terminology:  
 Open Readings. (n.d.). Karen Barad. Includes references and links to key articles. [https://openreadings.wordpress.com/texts/karen-barad/](https://openreadings.wordpress.com/texts/karen-barad/)
+
+## [[entanglement]]
+
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. [https://doi.org/10.1080/13534645.2014.927623](https://doi.org/10.1080/13534645.2014.927623)
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.
+Braidotti, R. (2019). Posthuman knowledge. Polity.
+Braidotti, R., & Hlavajova, M. (Eds.). (2018). Posthuman glossary. Bloomsbury.
+Braidotti, R., Jones, E., & Klumbytė, G. (Eds.). (2022). More posthuman glossary. Bloomsbury.
+Deleuze, G., & Guattari, F. (1987). A thousand plateaus: Capitalism and schizophrenia (B. Massumi, Trans.). University of Minnesota Press.
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.
+Massumi, B. (2015). Politics of affect. Polity.
+Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.
+Strom, K., & Mills, C. (2021). What counts as data in posthuman research? New views on evidence in educational research. Educational Philosophy and Theory, 53(12), 1317–1328. [https://doi.org/10.1080/00131857.2020.1772026](https://doi.org/10.1080/00131857.2020.1772026)
+Ulmer, J. B. (2017). Writing slow ontology. Qualitative Inquiry, 23(3), 201–211. [https://doi.org/10.1177/1077800416661480](https://doi.org/10.1177/1077800416661480)
 ## [[intensity]]
 
 Ahmed, S. (2004). The cultural politics of emotion. Routledge.  

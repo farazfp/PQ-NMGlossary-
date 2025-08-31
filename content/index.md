@@ -68,7 +68,6 @@
 - # D 
 ### [[data]]
 > Material-discursive traces produced by apparatuses of collection, preprocessing, and modeling. Data are relational, situated, and performative: they enact cuts that delineate what becomes an object of inquiry, what counts as evidence, and which learning outcomes are legible in writing pedagogy.
-
 ### [[datafication]]
 > Ongoing sociotechnical processes that render activities, bodies, and texts into calculable units for extraction, optimization, and governance across platforms and institutions.
 ### [[difference]]
@@ -91,30 +90,21 @@
 
 ---
 - # E 
-
 ### [[ecology]]
-> A relational field of human, nonhuman, and infrastructural ties in which pedagogical capacities and constraints arise from patterned interdependencies.
-  
-  Ecology, within new materialism, extends beyond biological systems to denote an interrelated network of relationships.  In a GenAI-inflected writing environment, ecology can be used to denote how texts, technologies, and teaching practices cohabitate. It calls for an examination of the interdependencies between digital infrastructures and human creativity, suggesting that a healthy pedagogical ecology requires attention to ethical, social, and technical factors.  
-### [[ecology (minoritarian)]]
-> Ecological attunement that centers marginal lines and counter‑currents, tracking small, situated arrangements that open alternative capacities and futures.
-  
-  Building on the broader notion of ecology, the minoritarian dimension emphasizes the voices and practices that historically have been marginalized. In the context of cybernetic writing and AI-enabled classrooms, this concept compels educators to foreground diverse perspectives and ensure that new digital modes do not simply reinforce dominant paradigms, but instead open space for counter-hegemonic narratives and inclusive practices.  
-
+> An onto-epistemological orientation that understands worlds as co-constituted habitats of relations, obligations, and material-semiotic exchanges, where living and learning take shape through patterns of interdependence across human and more‑than‑human milieus.
 ### [[embodiment]]
-> Lived, material, and affective capacities of bodies—human and nonhuman—through which sensing, knowing, and composing take shape in situated apparatuses.
+>The lived, material, and affective capacities through which bodies—human and nonhuman—sense, know, and compose within situated apparatuses, where learning and meaning emerge from patterned relations among flesh, tools, spaces, and concepts.
 
 Embodiment refers to the lived, material, and affective experiences of bodies as they participate in and are shaped by educational practices and technologies. Postqualitative and new materialist approaches reject mind-body dualisms, instead emphasizing the inseparability of thought, feeling, and materiality. In AI-entangled pedagogy, embodiment is not limited to human bodies but extends to the ways in which technologies, infrastructures, and environments participate in the production of knowledge and subjectivity. This perspective foregrounds the importance of attending to the sensory, emotional, and corporeal dimensions of teaching and learning.
 
 ### [[emergence]]
-> The appearance of novel properties and patterns from relational dynamics, emphasizing processual becoming over predetermined outcomes.
+> Patterns, capacities, and forms of order that arise from relational processes without being predetermined by any single element, where novelty becomes thinkable as a property of the whole-in-motion rather than a sum of parts.
   
 Emergence describes how novel properties arise from the complex interactions of constituent parts. In the classroom, as GenAI and traditional writing practices interact, unexpected forms of knowledge and creativity may emerge. This concept urges a focus on the process, rather than predetermined outcomes, and supports research that captures the unpredictable, generative potential of material-discursive practices.  
   
 ### [[entanglement]]
-> The inseparable co‑constitution of phenomena, where relata do not preexist relations and differences materialize through specific configurations.
+> The inseparable co-constitution of phenomena, where relations do not link preformed parts but generate the very terms that seem to be related. Differences materialize within specific configurations of humans, nonhumans, technologies, materials, and discourses.
 
-Entanglement is a key concept in new materialist and posthumanist scholarship, describing the inseparable, co-constitutive relationships among humans, nonhumans, materials, and discourses. In postqualitative research, entanglement challenges linear, cause-and-effect models of analysis, instead foregrounding the complex, dynamic, and often unpredictable ways in which phenomena emerge. In the context of GenAI and writing instruction, entanglement draws attention to the ways in which instructors, students, algorithms, policies, and material environments are mutually implicated in the ongoing reconfiguration of identities, texts, cultures, societies,  and education itself.  
   
 ### [[Ethico-onto-epistem-ology]]
 > The inseparability of ethics, being, and knowing: objectivity as situated accountability for the cuts through which worlds become.
