@@ -544,6 +544,29 @@ Massumi, B. (2015). Politics of affect. Polity.
 Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.
 Strom, K., & Mills, C. (2021). What counts as data in posthuman research? New views on evidence in educational research. Educational Philosophy and Theory, 53(12), 1317–1328. [https://doi.org/10.1080/00131857.2020.1772026](https://doi.org/10.1080/00131857.2020.1772026)
 Ulmer, J. B. (2017). Writing slow ontology. Qualitative Inquiry, 23(3), 201–211. [https://doi.org/10.1177/1077800416661480](https://doi.org/10.1177/1077800416661480)
+## [[Ethico-onto-epistem-ology]]
+
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Durham, NC: Duke University Press. [https://www.dukeupress.edu/meeting-the-universe-halfway](https://www.dukeupress.edu/meeting-the-universe-halfway)  
+Barad, K. (2003). Posthumanist performativity: Toward an understanding of how matter comes to matter. Signs: Journal of Women in Culture and Society, 28(3), 801–831.  
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187.  
+Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599.  
+New Materialism Almanac. (2016). Ethico-onto-epistem-ology (E. Geerts). [https://newmaterialism.eu/almanac/e/ethico-onto-epistem-ology.html](https://newmaterialism.eu/almanac/e/ethico-onto-epistem-ology.html)  
+New Materialism Almanac. (2018). Phenomena – Agential realism (S. Sauzet). [https://newmaterialism.eu/almanac/p/phenomena-agential-realism.html](https://newmaterialism.eu/almanac/p/phenomena-agential-realism.html)  
+Rouse, J. (2004). Barad’s agential realism. Hypatia, 19(1), 142–161.  
+Hollin, G., Forsyth, I., Giraud, E., & Potts, T. (2017). (Dis)entangling Barad: Materialisms and ethics. Social Studies of Science, 47(6), 918–941.
+
+## [[ethics]]
+Ahmed, S. (2014). Willful subjects. Duke University Press.
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press.
+Barad, K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. [https://doi.org/10.1080/13534645.2014.927623](https://doi.org/10.1080/13534645.2014.927623)
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.
+Braidotti, R. (2013). The posthuman. Polity.
+Braidotti, R. (2019). Posthuman knowledge. Polity.
+Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599.
+Haraway, D. (2016). Staying with the trouble: Making kin in the Chthulucene. Duke University Press.
+Puig de la Bellacasa, M. (2017). Matters of care: Speculative ethics in more than human worlds. University of Minnesota Press.
+Zylinska, J. (2014). Minimal ethics for the Anthropocene. Open Humanities Press. [https://doi.org/10.3998/ohp.12329362.0001.001](https://doi.org/10.3998/ohp.12329362.0001.001)
+
 ## [[intensity]]
 
 Ahmed, S. (2004). The cultural politics of emotion. Routledge.  

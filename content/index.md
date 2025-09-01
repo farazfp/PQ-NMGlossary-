@@ -94,22 +94,13 @@
 > An onto-epistemological orientation that understands worlds as co-constituted habitats of relations, obligations, and material-semiotic exchanges, where living and learning take shape through patterns of interdependence across human and more‑than‑human milieus.
 ### [[embodiment]]
 >The lived, material, and affective capacities through which bodies—human and nonhuman—sense, know, and compose within situated apparatuses, where learning and meaning emerge from patterned relations among flesh, tools, spaces, and concepts.
-
-Embodiment refers to the lived, material, and affective experiences of bodies as they participate in and are shaped by educational practices and technologies. Postqualitative and new materialist approaches reject mind-body dualisms, instead emphasizing the inseparability of thought, feeling, and materiality. In AI-entangled pedagogy, embodiment is not limited to human bodies but extends to the ways in which technologies, infrastructures, and environments participate in the production of knowledge and subjectivity. This perspective foregrounds the importance of attending to the sensory, emotional, and corporeal dimensions of teaching and learning.
-
 ### [[emergence]]
 > Patterns, capacities, and forms of order that arise from relational processes without being predetermined by any single element, where novelty becomes thinkable as a property of the whole-in-motion rather than a sum of parts.
-  
-Emergence describes how novel properties arise from the complex interactions of constituent parts. In the classroom, as GenAI and traditional writing practices interact, unexpected forms of knowledge and creativity may emerge. This concept urges a focus on the process, rather than predetermined outcomes, and supports research that captures the unpredictable, generative potential of material-discursive practices.  
-  
 ### [[entanglement]]
 > The inseparable co-constitution of phenomena, where relations do not link preformed parts but generate the very terms that seem to be related. Differences materialize within specific configurations of humans, nonhumans, technologies, materials, and discourses.
 
-  
 ### [[Ethico-onto-epistem-ology]]
-> The inseparability of ethics, being, and knowing: objectivity as situated accountability for the cuts through which worlds become.
-  
-  This integrative concept bridges ethics, ontology, and epistemology. It posits that knowing is inseparable from being and doing, and that ethical practices must be interwoven with material realities. For educators engaged with GenAI, this mapping suggests an approach where ethical engagement is intrinsic to the process of technological adoption and curriculum design. It supports research that is not only descriptive but also normatively engaged in reconfiguring power dynamics in digital pedagogies.  
+> A commitment to the inseparability of ethics, ontology, and epistemology in knowledge-making, where practices of knowing are simultaneously practices of being and doing, and therefore always matters of responsibility.
 ### [[Ethos / Ethics]]
 > Immanent, relational, and practice‑based orientations of responsibility and care that are enacted, not applied, within concrete material–discursive arrangements.
   
