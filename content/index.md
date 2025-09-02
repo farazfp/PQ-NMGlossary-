@@ -99,12 +99,10 @@
 ### [[entanglement]]
 > The inseparable co-constitution of phenomena, where relations do not link preformed parts but generate the very terms that seem to be related. Differences materialize within specific configurations of humans, nonhumans, technologies, materials, and discourses.
 
-### [[Ethico-onto-epistem-ology]]
+### [[ethico-onto-epistem-ology]]
 > A commitment to the inseparability of ethics, ontology, and epistemology in knowledge-making, where practices of knowing are simultaneously practices of being and doing, and therefore always matters of responsibility.
-### [[Ethos / Ethics]]
+### [[ethics]]
 > Immanent, relational, and practice‑based orientations of responsibility and care that are enacted, not applied, within concrete material–discursive arrangements.
-  
-  Ethos and Ethics refer to the character and moral imperatives guiding practice. Ethics, in postqualitative and new materialist research, is not a matter of applying universal rules or codes but is understood as an ongoing, situated practice that emerges from the specificities of relational entanglements. In the context of cyborg writing and GenAI in higher education, they compel instructors to consider how accountability, trust, and responsibility alongside the practical realities of agency, authorship, and care within classrooms are reshaped by the ways in which human and nonhuman actors intra-act. This approach to ethics foregrounds attentiveness to the effects of research and pedagogical practices, emphasizing the need to remain responsive to the shifting dynamics and potential harms or benefits that unfold within AI-entangled assemblages. This concept invites a critical assessment of the ethical implications of postqualitative methods in education and the development of frameworks that support responsible human–machine collaborations.  
 
 ---
   
