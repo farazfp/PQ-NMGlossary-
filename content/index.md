@@ -22,11 +22,13 @@
 > A provocation that names how concrete agents and material relations exceed, escape, or even undo abstract, pre-assigned “agency,” shifting attention from agency as a property to situated agential doings in entangled worlds.
 ### [[algorithms]]
 > Procedural compositions of rules, data, and infrastructure that performatively shape what becomes sayable, writable, and sensible within socio-technical assemblages.
+### [[altergorithm]]
+> A critical and inventive orientation to algorithms that foregrounds their alterity—their capacity to produce otherwise—by attending to how data, models, and interfaces configure relations, and by designing alternative algorithmic practices that redistribute agency, accountability, and care.
 ### [[apparatus]]
 > A material-discursive configuration that enacts phenomena by setting the conditions under which differences matter, boundaries are drawn, and properties become intelligible.
 ### [[assemblage]]
   > A dynamic constellation of heterogeneous elements -- human, nonhuman, material, discursive, technological -- coming together temporarily to produce particular effects, always in motion and continually reconfiguring as relations shift.
-## [[atmosphere]]
+### [[atmosphere]]
 > The felt, shared quality of a situation—the diffuse, more-than-individual “weather” of a scene—that emerges from entanglements of bodies, spaces, technologies, discourse, and materials, shaping what becomes thinkable, sayable, and doable.
 
 ### [[attunement]]
@@ -85,7 +87,7 @@
 ### [[diffractive Reading]]
 > A methodological practice of reading multiple sources through one another to generate novel insights from the interference patterns they produce when brought into contact.
  
-### [[Documentation]]
+### [[documentation]]
 > Practices and artifacts that materialize, circulate, and stabilize relations and traces of knowing-doing in an inquiry. Documentation is an active participant in how phenomena take shape and become legible and accountable in inquiry and assessment.
 
 ---
@@ -169,6 +171,8 @@
 ### Materiality
 Materiality, within new materialist and postqualitative frameworks, refers to the significance of matter - bodies, technologies, spaces, and objects - in the production of knowledge, subjectivity, and experience. Materiality is not passive or inert but is understood as active, agentic, and always in relation with discursive and affective forces. In AI-entangled pedagogy, materiality encompasses not only the physical presence of digital devices and infrastructures but also the ways in which these materialities shape, and are shaped by, pedagogical practices, institutional policies, and affective atmospheres.
 
+### [[material-discursivity]]
+> The inseparability of matter and meaning in the production of phenomena, where practices, concepts, bodies, tools, and signs co-constitute what comes to exist, to be sensed, and to count as knowledge.
 ### Metal
   
   While ostensibly referencing the physical properties of metals, this concept in new materialism serves as a metaphor for the transformative and malleable qualities of materiality. In the context of GenAI writing, metal can be seen as emblematic of the resilient, conductive properties of digital interfaces that facilitate the transformation of raw data into creative outputs. This invites research into the parallels between industrial materials and digital media in shaping pedagogical forms.   
