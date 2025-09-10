@@ -61,7 +61,7 @@ Bennett, J. (2010). Vibrant Matter: A Political Ecology of Things. Duke Universi
 Latour, B. (2010). An attempt at a “compositionist manifesto.” New Literary History, 41(3), 471–490.  
 Ahmed, S. (2006). Queer Phenomenology: Orientations, Objects, Others. Duke University Press.  
 
-## [[algorithms]]
+## [[algorithm]]
 
 Amoore, L. (2020). Cloud Ethics: Algorithms and the Attributes of Ourselves and Others. Durham, NC: Duke University Press.  
 Crawford, K. (2021). Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. New Haven, CT: Yale University Press.  

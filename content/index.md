@@ -20,7 +20,7 @@
 > A posthumanist onto-epistemology that understands reality as composed of phenomena, or entangled relations without preexisting relata, where concepts, bodies, and instruments co-constitute what becomes determinate through intra-action and agential cuts.
 ### [[agents Against Agency (AAA)]]
 > A provocation that names how concrete agents and material relations exceed, escape, or even undo abstract, pre-assigned “agency,” shifting attention from agency as a property to situated agential doings in entangled worlds.
-### [[algorithms]]
+### [[algorithm]]
 > Procedural compositions of rules, data, and infrastructure that performatively shape what becomes sayable, writable, and sensible within socio-technical assemblages.
 ### [[altergorithm]]
 > A critical and inventive orientation to algorithms that foregrounds their alterity—their capacity to produce otherwise—by attending to how data, models, and interfaces configure relations, and by designing alternative algorithmic practices that redistribute agency, accountability, and care.

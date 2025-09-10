@@ -1,6 +1,6 @@
 
 
-> Procedural compositions of rules, data, and infrastructure that performatively shape what becomes sayable, writable, and sensible within socio-technical assemblages.
+> A procedural composition of rules, data, and infrastructure that performatively shapes what becomes sayable, writable, and sensible within socio-technical assemblages.
 
 In posthumanist and new materialist terms, algorithms are not neutral instructions but lively components of assemblages that co-produce phenomena. Drawing across **Amoore** on algorithmic governance, **Seaver** on “algorithms-as-culture,” **Gillespie** on platform curation, **Crawford** on infrastructures, and **Rouvroy** on algorithmic governmentality, algorithms appear as material-discursive practices that enact classifications, affordances, and exclusions. They operate through training data, prompts, weights, thresholds, and feedback channels; their performativity emerges with datasets, interfaces, sensors, clouds, and users in situated apparatuses. 
 
