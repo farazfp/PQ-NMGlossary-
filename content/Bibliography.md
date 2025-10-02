@@ -514,6 +514,18 @@ Lenz Taguchi, H. (2010). _Going beyond the theory/practice divide in early child
 Puig de la Bellacasa, M. (2017). Matters of care: Speculative ethics in more than human worlds. University of Minnesota Press.
 Zylinska, J. (2014). Minimal ethics for the Anthropocene. Open Humanities Press. [https://doi.org/10.3998/ohp.12329362.0001.001](https://doi.org/10.3998/ohp.12329362.0001.001)
 
+## [[fearful materialism]]
+
+Ahmed, S. (2014). The cultural politics of emotion (2nd ed.). Edinburgh University Press.  
+Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press.  
+Bennett, J. (2010). Vibrant matter: A political ecology of things. Duke University Press.  
+Braidotti, R. (2013). The posthuman. Polity.  
+Braidotti, R. (2019). Posthuman knowledge. Polity.  
+Massumi, B. (2015). Politics of affect. Polity.  
+Papacharissi, Z. (2015). Affective publics: Sentiment, technology, and politics. Oxford University Press.  
+Seigworth, G. J., & Gregg, M. (2010). An inventory of shimmers. In M. Gregg & G. J. Seigworth (Eds.), The affect theory reader (pp. 1–25). Duke University Press.  
+Thrift, N. (2008). Non-representational theory: Space, politics, affect. Routledge.
+
 ## [[intensity]]
 
 Ahmed, S. (2004). The cultural politics of emotion. Routledge.  

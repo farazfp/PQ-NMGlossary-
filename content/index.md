@@ -110,7 +110,7 @@
   
 - # F
 
-### Fearful Materialism
+### [[fearful materialism]]
   
   Fearful Materialism examines anxiety surrounding the unpredictable, sometimes disruptive force of material realities. In the context of GenAI, instructors may experience trepidation about relinquishing control or trusting algorithmic outputs. This concept legitimizes such affective responses as a productive starting point for re-imagining pedagogical structures, emphasizing the need for reflective practices that address both fear and possibility.  
 ### Feminist Technoecologies
