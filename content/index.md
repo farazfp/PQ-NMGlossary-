@@ -111,9 +111,8 @@
 - # F
 
 ### [[fearful materialism]]
-  
-  Fearful Materialism examines anxiety surrounding the unpredictable, sometimes disruptive force of material realities. In the context of GenAI, instructors may experience trepidation about relinquishing control or trusting algorithmic outputs. This concept legitimizes such affective responses as a productive starting point for re-imagining pedagogical structures, emphasizing the need for reflective practices that address both fear and possibility.  
-### Feminist Technoecologies
+> An ethical-methodological orientation that treats fear, anxiety, and apprehension as material forces in knowledge-making, attending to how affects sediment in bodies, tools, spaces, and discourses to shape what becomes sayable, doable, and teachable.
+### [[ feminist technoecologies]]
   
   Feminist Technoecologies focus on the intersections of gender, technology, and ecological thought.They invite an interrogation of how digital platforms and AI systems are embedded within broader power structures. For teacher-researchers and curriculum designers, this mapping offers a pathway for designing digitally mediated writing practices that foreground intersectional concerns and challenge normative technocratic paradigms. 
   
