@@ -31,6 +31,9 @@ The study will follow a phenomenologically-oriented, narrative-practice approach
 
 ### **4. Why This Methodology? (Postqualitative, Posthumanist & New Materialist)**
 
+#### [[The three pillars]]
+
+
 ""A traditional qualitative study would be excellent for capturing a snapshot of what instructors _think_ about AI. But my project is built on the premise that the phenomenon itself—this deep entanglement with AI—is not static. It's a dynamic process of becoming.
 
 Therefore, a post-qualitative approach is necessary because it allows me to move beyond capturing opinions and instead **trace the movement of practice over time.** It lets me study how the instructor, the AI, the syllabus, and the institutional policies are all acting together to produce new pedagogical realities. The method is designed to match the fluid, entangled nature of the problem itself.""
